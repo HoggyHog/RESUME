@@ -1,0 +1,497 @@
+\documentclass{article}
+\usepackage[a4paper,bottom = 4mm,left = 14.11mm,right = 14.11mm,top = 65mm]{geometry}
+\usepackage{tabularx}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{textcomp}
+\usepackage{fontawesome}
+\usepackage{color}
+\usepackage[colorlinks=false]{hyperref}
+\usepackage{verbatim}
+\newcommand{\xfilll}[2][1ex]{
+\dimen0=#2\advance\dimen0 by #1
+\leaders\hrule height \dimen0 depth -#1\hfill}
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}
+\renewcommand\labelitemi{\raisebox{0.4ex}{\tiny$\bullet$}}
+\renewcommand{\labelitemii}{$\cdot$}
+\pagenumbering{gobble}
+% \definecolor{myblue}{RGB}{70,150,200}
+\definecolor{myblue}{RGB}{0,0,256}
+\definecolor{myred}{RGB}{256,0,0}
+% \definecolor{myblue}{RGB}{0,0,0}
+\begin{document}
+
+% \centering \href{mailto:sarthak2002.mehrotra@gmail.com}{\faEnvelope}\hspace{6mm} \href{https://github.com/SarthakM320}{\faGithub} \hspace{6mm} \href{https://www.linkedin.com/in/sarthak-mehrotra-a4a01120b/}{\faLinkedin}
+% \vspace{1mm}
+\vspace{25pt}
+%\vspace{-18pt}
+\hspace{-0.6cm} Pursuing Minor in \textbf{Artificial Intelligence and Data Science} 
+\vspace{-15pt}
+\section*{{\LARGE \color{myblue} Scholastic Achievements}\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+    %\item\fontdimen1\font=0.5em Secured \textbf{All India Rank 7358} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
+    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
+    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates \hfill\em{(2021)}\em{}
+    %\item\fontdimen1\font=0.5em Scored \textbf{95\%} marks in \textbf{CBSE Boards 2021} and Scored \textbf{348} marks in \textbf{BITSAT 2021}\hfill\em{(2021)}\em{}
+    \item\fontdimen1\font=0.5em Secured \textbf{AA grade} in 4 courses so far within the Department among 39 students for academic excellence\hfill\em{(2022)}\em{}
+    
+    
+\end{itemize}
+\vspace{-20pt}
+
+% INTERNS
+\section*{\LARGE \color{myblue}Professional Experience\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-12pt}
+
+
+
+{\fontsize{12}{12} \textbf{Frontend Development Internship - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
+
+
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-18pt}
+\item\fontdimen1\font=0.5em \textls[-20]{Implemented the \textbf{Google Maps API} to provide a \textbf{autocomplete field} for the starting and ending location}  }
+\item\fontdimen1\font=0.5em \textls[-20]{Also used the API to return a map element with the route embedded between 2 locations given the geopoints }
+\item\fontdimen1\font=0.5em \textls[6]{Worked with a design on \textbf{Figma}, implemented \textbf{Framer Motion} and made the site responsive to multiple viewports. }
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated the APIs with the frontend, used \textbf{Postman Documenter} to communicate with backend team.}
+
+
+\end{itemize}
+\\
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{Software Development Internship $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Present)}\\
+{\it } 
+% \vspace{11pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-18pt}
+\item\fontdimen1\font=0.5em Worked primarily on Backend, implementing \textbf{MERN Stack} and dealing with images/files using \textbf{GridFS}
+\item\fontdimen1\font=0.5em Made a \textbf{Users Database} which dealt with all the required logistics and also included Email Authentication 
+\item\fontdimen1\font=0.5em Defined the \textbf{APIs for CRUD operations} in the Users Database and also worked on integrating it with the frontend
+\item\fontdimen1\font=0.5em Worked on the booking APIs dealing with the creation of bookings for the StoreFront app used by Hotels
+
+
+\end{itemize}
+\\
+\vspace{-2pt}
+{\fontsize{12}{12} \textbf{Software Development Internship $|$ Azzet}}  \hfill{\sl \small (June'22 - Jul'22)}\\
+{\it } 
+% \vspace{11pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-18pt}
+\item\fontdimen1\font=0.5em Developing a \textbf{Landing Page} from a Figma Page using \textbf{React} having \textbf{Float Animations} and \textbf{Infinite Scroll}
+\item\fontdimen1\font=0.5em Adding animations using libraries such as \textbf{React Spring} and \textbf{GSAP} to make the landing page more interactive
+
+\end{itemize}
+\vspace{-20pt}
+% \vspace{0pt}
+
+
+
+% \vspace{-5pt}
+\\
+
+
+% {\fontsize{12}{12} \textbf{Image Processing and Vision Subdivision $|$ IITB Mars Rover Team}}  \hfill{\sl \small (Apr'21 -  Sep'21)}\\
+% {\it A team of 40+ Students which designs and fabricates Marsrover prototypes for international rover competitions} 
+% \vspace{-6pt}
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Reviewed low-light image enhancement techniques involving \textbf{GAN's} and \textbf{Retinex Algorithm} for IRDC
+% \item\fontdimen1\font=0.5em Explored Video Compression codecs (\textbf{H.265 } and \textbf{VP9}) for efficient transmission from rover to base station 
+% \end{itemize}
+\\
+
+\\
+
+% {\fontsize{12}{12} \textbf{Face Mask Detection}}  \hfill{\sl \small (Aug'21 - Sep'21)}\\
+% {\it Self Project} \hfill{\it IIT Bombay}\hspace{-2pt}
+% \vspace{-6pt}
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Developed a \textbf{Covid Safety Framework} which monitors real-time video to insist continuous mask usage
+% \item\fontdimen1\font=0.5em Performed \textbf{Transfer Learning} and achieved an accuracy of \textbf{96.5\%} using CNN network using Adam optimizer
+% \item\fontdimen1\font=0.5em Worked with MTCNN's, DNN and Haarcascade Classifier and analysed the results to finalize the model
+% \end{itemize} 
+% \vspace{-4pt}
+% \\
+
+
+
+\\
+    % \newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+% \newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+\\
+
+
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1mm, leftmargin=4mm]
+% \item \textbf{Face Mask Detection}
+% \item \textbf{Heart Failure Prediction (Course Project)}
+% \item \textbf{Impact of Covid on Aviation Industry (Course Project)}
+% \item \textbf{WnCC Website}
+
+
+
+% \end{itemize}
+\\
+
+
+
+
+\\
+
+\\
+% {\fontsize{12}{12} \textbf{Controllable GAN's}}  \hfill{\sl \small (Dec'21 - Jan'21)}\\
+% % {\it Self Project} \hfill{\it IIT Bombay}\hspace{-2pt}
+% \vspace{-18pt}
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.75mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Developed a \textbf{Covid Safety Framework} which monitors real-time video to insist continuous mask usage
+% \item\fontdimen1\font=0.5em Performed \textbf{Transfer Learning} and achieved an accuracy of \textbf{96.5\%} using CNN network using Adam optimizer
+% \end{itemize} 
+% \vspace{-5pt}
+% \\
+
+% {\fontsize{12}{12} \textbf{Static Structural Analysis of a Spring $|$ Course Project}}  \hfill{\sl \small (Oct'21 - Nov'21)}\\
+% {\it Guide: Prof. Krishnendu Haldar $|$ Dept. of Aerospace Engineering} \hfill{\it IIT Bombay}\hspace{-2pt}
+% \vspace{-5pt}
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Analysed and solved a \textbf{Boundary Value Problem} of a Spring subjected to compression using \textbf{FEM Software} 
+% \item\fontdimen1\font=0.5em Visualized the deformation of the body, and the equivalent and component stress and strain values using \textbf{Ansys} 
+% \item\fontdimen1\font=0.5em Analysed the solution, reasoned the region of extreme deformity and verified it with the theoretical solution
+% \end{itemize} 
+% \vspace{-20pt}
+
+
+% {\fontsize{12}{12} \textbf{Lasso Game $|$ Course Project}}  \hfill{\sl \small (Jan'21 - Feb'21)}\\
+% {\it Guide: Prof. Bhaskar Raman $|$ Dept. of CSE} \hfill{\it IIT Bombay}\hspace{-2pt}
+% \vspace{-6pt}
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Used Object Oriented Programming in conjunction with \textbf{STL Libraries} and \textbf{Graphics} to develop a Game
+% \item\fontdimen1\font=0.5em Added different features like \textbf{New Levels} and \textbf{Randomised Objects} in addition to visually enhancing the game
+% \end{itemize} 
+% \vspace{-20pt}
+% \vspace{-20pt}
+% \newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+% {\fontsize{12}{12} \textbf{WnCC Website}}  \hfill{\sl \small (Jul'21 -  Sep'21)}\\
+% {\it Web and Coding Club} \hfill{\it IIT Bombay}\hspace{-2pt}
+% \vspace{-6pt}
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Developed the club's \textbf{official website} to display the \textbf{brand}, \textbf{information} and the \textbf{latest news} about the club
+% \item\fontdimen1\font=0.5em Used \textbf{Jekyll, HTML, CSS} and \textbf{BootStrap 5 } to modify the \textbf{UI} and make the website more interactive
+% \end{itemize}
+% \vspace{-20pt}
+% \vspace{0pt}
+% \section*{\LARGE \color{myblue}Other Projects\color{myblue}\xfilll[0pt]{0.5pt}}
+% \vspace{-10pt}
+% \\
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5mm]
+%     \item\fontdimen1\font=1em \textbf{Clima:} Made a multipage weather application with interactive \textbf{UI} making use of \textbf{OpenWeather API} for the data
+%     \item\fontdimen1\font=1em \textbf{TODO App:} Developed an application for tasks and included \textbf{Authentication} using \textbf{Firebase} as a backend
+%     \item\fontdimen1\font=1em \textbf{BMI Calculator:} Made a BMI calculator on \textbf{Flutter} with different kinds of inputs like sliders with a dark theme
+% \end{itemize}
+% \vspace{-24pt}
+% \vspace{\baselineskip}
+
+\section*{\LARGE \color{myblue}Key Projects Undertaken\color{myblue}\xfilll[0pt]{0.5pt}}
+
+\vspace{-10pt}
+\section*{\LARGE \textbf{Data Science and Machine Learning}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+{\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
+\hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem}} 
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Task was to read the labels given an image of many books which would be camptured by the humanoid.
+\item\fontdimen1\font=0.5em \textls[5]{So first used \textbf{YOLOV8} to get crops of the different books within the image, and passed them down the pipeline.}
+\item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} to  by making a \textbf{Custom Dataset} of the book and mannually annotating the labels}
+\item\fontdimen1\font=0.5em \textls[-20]{From the labels, detected the words to be passed on using \textbf{EasyOCR} to perform Optical Character Reading}
+
+\end{itemize}
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{DS303 Course Project $|$ Introduction to Machine Learning}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
+\hspace{0pt}{\it Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} \hfill{\it IIT Bombay}\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-8pt}
+\item\fontdimen1\font=0.5em \textbf{Implemented a research paper} to analyse the significant features in models such as \textbf{RF and LightGBM}
+\item\fontdimen1\font=0.5em \textls[5]{Used the \textbf{Iranian Customer Churn dataset}, with customer churn being the target variable for the model}
+\item\fontdimen1\font=0.5em \textls[-20]{Used the frameworks of \textbf{SHAP and LIME} on the model created to understand which features were the most significant}
+\item\fontdimen1\font=0.5em \textls[-20]{\textbf{Evaluation} was based on removing most significant features and noting its effect on the \textbf{Error metrics }(R^2,MSE,MAE) }
+
+\end{itemize}
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{Facial Recognition using Siamese Networks $|$ Self- Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-17pt}
+\item\fontdimen1\font=0.5em Task was to create a Facial Recognition Model using Contrastive Learning on positive and negative samples
+\item\fontdimen1\font=0.5em \textls[5]{\textbf{Data pre-processing} involved collecting \textbf{1000+ images} and then using a \textbf{DataLoader} to create samples }
+\item\fontdimen1\font=0.5em \textls[5]{Implemented Model architecture from the \textbf{Siamese Neural Networks paper}, based on \textbf{Contrastive Learning}}
+\item\fontdimen1\font=0.5em \textls[-20]{For inference, input image was sampled against \textbf{50 validation images} to return a score compared with preset threshold}
+
+\end{itemize}
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-17pt}
+\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} were used for the training and testing of this Detector
+\item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
+\item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
+
+\end{itemize}
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-17pt}
+\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} were used for the training and testing of this Detector
+\item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
+\item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
+
+\end{itemize}
+\newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+\vspace{-3pt}
+\section*{\LARGE \textbf{Development and Cyber Security}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+
+\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website (FOOXT) $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
+\item\fontdimen1\font=0.5em \textls[5]{Used \textbf{Framer Motion} to incorporate animations, while also making the page \textbf{responsive to multiple viewports}}
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page.}
+\end{itemize}
+{\fontsize{12}{12} \textbf{CS101 Course Project $|$ Computer Programming and Utilization}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
+\hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} \hfill{\it IIT Bombay}
+\vspace{-3pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input
+\item\fontdimen1\font=0.5em \textbf{ETAI and Dictionary Closure} techniques were used to match the encrypted word with the dictionary
+\item\fontdimen1\font=0em \textls[-10]{The magic word was to be found based on which the key was framed, and that should be returned back as output}
+\end{itemize}
+
+
+\vspace{-3pt}
+\noindent{\fontsize{12}{12} \textbf{IPOD Clone $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Made an IPOD web app using \textbf{React} which played music in real time, songs could be paused, played and changed
+\item\fontdimen1\font=0.5em \textls[5]{The songs were pre loaded into the working directory, which could be uploaded onto \textbf{Firebase}, as an improvisation}
+\item\fontdimen1\font=0.5em \textls[-20]{The functionality of the Scroll Wheel is implemented from a library \textbf{ZingTouch}, and the Web app is hosted on \textbf{Netlify}}
+\end{itemize}
+
+\vspace{-3pt}
+\noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (Jun'22 - Jul'22)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Made a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface}
+\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a SQL Database and then retrieved when necessary}
+\item\fontdimen1\font=0.5em \textls[-20]{The usernames and password of a user can be retrieved after login with a unique \textbf{master name and master key}}
+\end{itemize}
+
+\vspace{-20pt}
+
+\section*{\LARGE \textbf{Energy Sciences}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+{\fontsize{12}{12} \textbf{EN110 Course Project $|$ Fundamentals of Energy Engineering}}  \hfill{\sl \small (Mar'22 - Jun'22)}
+{\it Guide: Prof. Shireesh B Kedare $|$ Department of Energy Science and Engineering} \hfill{\it IIT Bombay}\hspace{-2pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Build a  \textbf{working Solar Cooker} using common household material in a group of 3 in \textbf{online mode}
+\item\fontdimen1\font=0.5em \textls[5]{Each member built a version of the cooker keeping one of the key factors of cooking in mind, hence making 3 models}
+\item\fontdimen1\font=0.5em \textls[-20]{Found problems with each initial model, fount the possible causes and made updated models addressing each issue}
+\end{itemize}
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{EN110 Course Presentation $|$ Fundamentals of Energy Engineering}}  \hfill{\sl \small (Mar'22 - Jun'22)}
+{\it Guide: Prof. Shireesh B Kedare $|$ Department of Energy Science and Engineering} \hfill{\it IIT Bombay}\hspace{-2pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Analysed a  \textbf{Research Paper} on \textbf{Experience Curves} and its effect on costs of \textbf{Energy resources}
+\item\fontdimen1\font=0.5em \textls[5]{Understood and explained the concept of how with time and experience the cost of energy resources decreases}
+\item\fontdimen1\font=0.5em \textls[-20]{Held a discussion with the class on how \textbf{Renewable energy resources} will prove to be \textbf{cost effective} as time passes}
+\end{itemize}
+
+\section*{\LARGE \textbf{Electronics and Robotics}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+{\fontsize{12}{12} \textbf{Mobile Controlled Robot (XLR8) $|$ Electronics and Robotics Club, IIT Bombay}}  \hfill{\sl \small (Aug'22)}
+
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Created a team of 4 motivated members in order to compete against  \textbf{140+ teams} in an obstacle course
+\item\fontdimen1\font=0.5em \textls[5]{Hardware equipments include \textbf{Motor Driver L293D} and \textbf{ESP32} making the bot controllable through Wifi}
+\item\fontdimen1\font=0.5em \textls[-20]{The robot was fabricated to be capable of \textbf{dealing with obstacles} along the path and to complete the course}
+\end{itemize}
+
+\vspace{-3pt}
+\noindent{\fontsize{12}{12} \textbf{Robot Simulation (fROSty) $|$ Electronics and Robotics Club, IIT Bombay}}  \hfill{\sl \small (Dec'22)}
+
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em The objective of the project was to program a \textbf{turtlebot} to exit a maze using \textbf{ROS- Noetic} using visual topics.  
+\item\fontdimen1\font=0.5em \textls[5]{The project involved visualization using \textbf{Gazebo and Rviz} when the robot would move in predefined worlds}
+\item\fontdimen1\font=0.5em \textls[-20]{The project also involved the use of \textbf{Aruco Markers} which gave clues on the location of walls and the right path}
+\end{itemize}
+
+
+
+\vspace{-20pt}
+\section*{\LARGE \color{myblue}Positions of Responsibility\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+{\fontsize{12}{12} {\textbf{Mentor $|$ Department Academic Mentorship Program (DAMP), SMP }}} \hfill{\sl \small (May'23 - Present)}\\
+{\it Part of a 12 member team, selected on the basis of an \textbf{interview based on mentorship skills}}
+\vspace{-15pt}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+
+\item\fontdimen1\font=0.5em \textls[10]{Monitoring the academic performance of \textbf{11 sophomores} by providing academic guidance and counsel }
+\item\fontdimen1\font=0.5em Contributing to a smooth integration of the mentees by catering to their academic needs and co-curricular endeavors
+\item\fontdimen1\font=0.5em Conducting sessions with Seniors and Alums to provide the freshmen and sophomore students with a wider outlook
+\end{itemize}
+{\fontsize{12}{12} {\textbf{Web Activity  Associate $|$ NSS, IIT Bombay}}} \hfill{\sl \small (Jun'22 - Apr'23)}\\
+{\it Part of a team of 4 people responsible for maintaining and updating the websites of NSS, IIT Bombay}
+\vspace{-15pt}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+
+\item\fontdimen1\font=0.5em \textls[10]{Worked on the previous webpages of NSS, making changes to the current working year's PORs and events }
+\item\fontdimen1\font=0.5em Made a \textbf{notification button} in the home page which displays the latest Events and also gives a Parallax effect
+\item\fontdimen1\font=0.5em \textls[10]{Worked on Footer and headers of the latest web page for the \textbf{Annual flagship event of NSS, Flare 2022}}
+\item\fontdimen1\font=0.5em \textls[10]{Was a part of the \textbf{Logistics Team}, participating in the on ground planning and execution of the Flare 2022 stalls}
+\end{itemize}
+\\
+\vspace{0pt}
+{\fontsize{12}{12} {\textbf{Web Developer $|$ Veloce, IIT Bombay}}} \hfill{\sl \small (Jun'22 - Apr'23)}\\
+{\it \textls[-10]{Selected to be part of a 3-membered team through a selection process of assignment on Django followed by interview}}
+\vspace{-15pt}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
+leftmargin=5.5mm]
+\item\fontdimen1\font=0.5em Worked on the main website template, the footer and the \textbf{scroll animations}, also making changes in the template
+\item\fontdimen1\font=0.5em Major work on \textbf{commenting the template}, positioning the logo elements and \textbf{fixing the view widths}
+\item\fontdimen1\font=0.5em \textls[-30]{Designed individual pages for different sections of the main website using the Figma file given}
+\end{itemize}
+\\
+\vspace{-20pt}
+\\
+
+
+
+
+
+
+
+
+
+% Combining these 2 points into one
+
+% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Institute Student Mentor $|$ IIT Bombay}}} \hfill{\sl \small (Jun'22 - Present)}\\
+% \vspace{-30pt}\\
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
+% leftmargin=5.5mm]
+
+
+% \item\fontdimen1\font=0.5em Part of a 144 membered team aiming to play a facilitative, supportive, and developmental role for first-year UG students
+% \item\fontdimen4\font=1pt \textls[-10]{One of only 15 $3^{rd}$ year students selected among 1,300+ students after a rigorous interview process and peer reviews}
+% \item\fontdimen1\font=0.5em Responsible for mentoring and guiding a group of incoming first-year UG students in academic and co-curricular endeavors
+
+% \end{itemize}
+
+
+
+% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Institute Student Mentor $|$ IIT Bombay}}} \hfill{\sl \small (Jun'22 - Present)}\\
+% \vspace{-30pt}\\
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
+% leftmargin=5.5mm]
+
+
+% \item\fontdimen1\font=0.5em Part of a 144 membered team aiming to play a facilitative, supportive, and developmental role for first-year UG students
+% \item\fontdimen4\font=1pt \textls[-10]{One of only 15 $3^{rd}$ year students selected among 1,300+ students after a rigorous interview process and peer reviews}
+% \item\fontdimen1\font=0.5em Responsible for mentoring and guiding a group of incoming first-year UG students in academic and co-curricular endeavors
+
+% \end{itemize}
+% \\
+
+% \vspace{-6pt}
+% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Department Academic Mentor $|$ IIT Bombay}}} \hfill{\sl \small (May'22 - Present)}\\
+% \vspace{-30pt}\\
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Part of a \textbf{23 member} team of mentors selected based on interviews & peer-reviews, \textbf{mentoring 6 sophomores}
+% \item\fontdimen1\font=0.5em Helping mentees, strike a balance between \textbf{academics & extracurriculars}, and \textbf{manage time efficiently}
+% \item\fontdimen1\font=0.5em Contributing in 
+% \end{itemize}
+	\\
+\vspace{1pt}
+
+% \vspace{\baselineskip}
+\section*{\LARGE \color{myblue}Technical Skills\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-12pt}
+\begin{tabular}{p{3cm}p{35cm}}
+  \textbf{Programming} & C\texttt{+}\texttt{+}, Python, Java, HTML, CSS, \textbf{Javascript}\\
+  \textbf{Development} & BootStrap, Angular, \textbf{MySQL, NodeJS, React JS, MongoDB, Express}, Django\\
+   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Numpy, Pandas}, Matplotlib, Django, Tensorflow, Keras, Rospy
+\end{tabular}
+\vspace{-18pt}
+% % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+
+\section*{\LARGE \color{myblue}Key Courses Undertaken\xfilll[0pt]{1pt}} \vspace{-10pt}
+\begin{itemize}[label=\textcolor{myblue} ,itemsep = -1.25mm, leftmargin=1.5mm]
+\item\textbf{Math and CS courses:}
+ Computer Programming and Utilization,  Data Analysis and Interpretation,
+ Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis*, Introduction to Machine Learning*
+ \item\textbf{Energy Science:} 
+ Thermodynamics and Energy Conversion, Basic Electrical and Electronics Engineering, Mechanics of Materials, Transport Phenomenon*, Electrical Machines*, Material Science for Energy Applications*
+
+
+ 
+\end{itemize}
+\vspace{-7pt}
+\hfill{\textit{(*: To be completed by April'23)}}
+\vspace{-22pt}
+\vspace{15pt}
+
+\vspace{-15pt}
+% \vspace{4mm}
+\section*{\LARGE \color{myblue}Extra-Curricular Activities\xfilll[0pt]{1pt}} 
+\vspace{-10pt}
+\centering \begin{tabular}{|p{1.5cm}| p{15cm} |}
+\hline
+% \vspace{2.4mm}\hspace{3mm}\textbf{Technical} &  \begin{itemize}[label={\textbullet},itemsep = -1.25.2 mm, leftmargin=*]
+%     \vspace{-0.5cm}
+%     \item \fontdimen2\font=0.5em Completed courses on \textbf{MLOPs} and \textbf{\LaTeX}  in a duration of 4 weeks in \textbf{TSS} \fontdimen2\font=0.5em\hfill{\sl \small(2021)}
+%     \item \fontdimen2\font=0.5em Successfully completed a course on \textbf{Deep Learning Specialization} on \textbf{Coursera}\fontdimen2\font=0.5em\hfill{\sl \small(2021)}
+%     \item \fontdimen2\font=0.5em Completed a course on \textbf{Advanced Techniques in Tensorflow}\fontdimen2\font=0.5em\hfill{\sl \small(2021)}\hspace{-1.5mm}
+%     \vspace{-0.4cm}
+% \end{itemize} \\
+% \hline
+\centering \vspace{2.5mm}{\textbf{Sports}} &  \begin{itemize}[label={\textbullet},itemsep = -0.9 mm, leftmargin=*]
+    \vspace{-0.5cm}
+    \item\fontdimen2\font=0.4em Won Silver in 4x100 Medley Relay at Inter-IIT Aquatics representing IIT Bombay \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item\fontdimen2\font=0.4em Completed a year long extensive training under \textbf{National Sports Organisation (NSO)} \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    % \vspace{-4.9mm}
+    \item\fontdimen2\font=0.4em Achieved 2nd place in 5000m sprint in CBSE State Zonals at Karnataka \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item\fontdimen2\font=0.4em Represented Karnataka at CBSE Nationals for 5000m sprint. \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    
+    \vspace{-0.4cm}
+\end{itemize} \\
+
+
+
+\hline
+\centering \vspace{2.5mm}{\textbf{Cultural}} &  \begin{itemize}[label={\textbullet},itemsep = -0.9 mm, leftmargin=*]
+    \vspace{-0.5cm}
+    \item \fontdimen2\font=0.42em  Was a guitarist of the hostel band which won 2nd Runners-Up in  \textbf{Goonj-22}   \hfill{\sl \small (2023)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item \fontdimen2\font=0.5em Participated in \textbf{Freshieza Showcase} as the lead guitarist for a band performance \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item \fontdimen2\font=0.5em Was awarded Exellence in Instrumental Music - Guitar, by \textbf{London School of Music}   \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    
+    \vspace{-0.4cm}
+    
+
+\end{itemize} \\
+
+\hline
+
+
+
+\end{tabular}
+
+
+
+\end{document}
