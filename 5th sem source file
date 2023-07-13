@@ -57,10 +57,10 @@
 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-18pt}
-\item\fontdimen1\font=0.5em \textls[-20]{Implemented the \textbf{Google Maps API} to provide a \textbf{autocomplete field} for the starting and ending location}  }
+\item\fontdimen1\font=0.5em \textls[-20]{Implemented the \textbf{Google Maps API} to provide a \textbf{autocomplete field} for the starting and ending location}  
 \item\fontdimen1\font=0.5em \textls[-20]{Also used the API to return a map element with the route embedded between 2 locations given the geopoints }
-\item\fontdimen1\font=0.5em \textls[6]{Worked with a design on \textbf{Figma}, implemented \textbf{Framer Motion} and made the site responsive to multiple viewports. }
-\item\fontdimen1\font=0.5em \textls[-20]{Integrated the APIs with the frontend, used \textbf{Postman Documenter} to communicate with backend team.}
+\item\fontdimen1\font=0.5em \textls[6]{Implemented \textbf{Framer Motion}, created React components from \textbf{Figma}, made site responsive to multiple viewports. }
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated the APIs with the frontend, used \textbf{Postman Documenter} to communicate efficiently with backend team.}
 
 
 \end{itemize}
@@ -72,9 +72,9 @@
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-18pt}
 \item\fontdimen1\font=0.5em Worked primarily on Backend, implementing \textbf{MERN Stack} and dealing with images/files using \textbf{GridFS}
-\item\fontdimen1\font=0.5em Made a \textbf{Users Database} which dealt with all the required logistics and also included Email Authentication 
+\item\fontdimen1\font=0.5em Created a \textbf{Users Database} which dealt with all the required logistics and also included Email Authentication 
 \item\fontdimen1\font=0.5em Defined the \textbf{APIs for CRUD operations} in the Users Database and also worked on integrating it with the frontend
-\item\fontdimen1\font=0.5em Worked on the booking APIs dealing with the creation of bookings for the StoreFront app used by Hotels
+\item\fontdimen1\font=0.5em Implemented the booking APIs dealing with the creation of bookings for the StoreFront app used by Hotels
 
 
 \end{itemize}
@@ -201,29 +201,28 @@
 \vspace{-10pt}
 \section*{\LARGE \textbf{Data Science and Machine Learning}\xfilll[0pt]{0.5pt}}
 \vspace{-10pt}
-{\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
-\hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem}} 
+{\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Feb'23-Present)}\\
+\hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem (Book Label Detection)}} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
-\item\fontdimen1\font=0.5em Task was to read the labels given an image of many books which would be camptured by the humanoid.
-\item\fontdimen1\font=0.5em \textls[5]{So first used \textbf{YOLOV8} to get crops of the different books within the image, and passed them down the pipeline.}
-\item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} to  by making a \textbf{Custom Dataset} of the book and mannually annotating the labels}
-\item\fontdimen1\font=0.5em \textls[-20]{From the labels, detected the words to be passed on using \textbf{EasyOCR} to perform Optical Character Reading}
+\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image, passed down the pipeline for processing.}
+\item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} by  making a \textbf{Custom Dataset} of the \textbf{500+ books} and mannually annotating the labels}
+\item\fontdimen1\font=0.5em \textls[-20]{Extracted targeted words from the labels by employing \textbf{EasyOCR} library for Optical Character Reading (OCR)}
 
 \end{itemize}
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{DS303 Course Project $|$ Introduction to Machine Learning}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
+{\fontsize{12}{12} \textbf{DS303 Course Project $|$ Introduction to Machine Learning}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
 \hspace{0pt}{\it Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} \hfill{\it IIT Bombay}\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-8pt}
-\item\fontdimen1\font=0.5em \textbf{Implemented a research paper} to analyse the significant features in models such as \textbf{RF and LightGBM}
-\item\fontdimen1\font=0.5em \textls[5]{Used the \textbf{Iranian Customer Churn dataset}, with customer churn being the target variable for the model}
-\item\fontdimen1\font=0.5em \textls[-20]{Used the frameworks of \textbf{SHAP and LIME} on the model created to understand which features were the most significant}
+\item\fontdimen1\font=0.5em Implemented a \textbf{research paper} to analyse the significant features in models such as \textbf{RF and LightGBM}
+\item\fontdimen1\font=0.5em \textls[5]{Utilized the \textbf{Iranian Customer Churn dataset}, with customer churn being the target variable for the model}
+\item\fontdimen1\font=0.5em \textls[-20]{Employed the \textbf{SHAP and LIME} frameworks on the model to understand which features were the most significant}
 \item\fontdimen1\font=0.5em \textls[-20]{\textbf{Evaluation} was based on removing most significant features and noting its effect on the \textbf{Error metrics }(R^2,MSE,MAE) }
 
 \end{itemize}
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{Facial Recognition using Siamese Networks $|$ Self- Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
+{\fontsize{12}{12} \textbf{Facial Recognition using Siamese Networks $|$ Self- Project}}  \hfill{\sl \small (May'23-Jun'23)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-17pt}
 \item\fontdimen1\font=0.5em Task was to create a Facial Recognition Model using Contrastive Learning on positive and negative samples
@@ -236,7 +235,7 @@
 {\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-17pt}
-\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} were used for the training and testing of this Detector
+\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} was used for the training and testing of this detector
 \item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
 \item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
 
@@ -245,7 +244,7 @@
 {\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-17pt}
-\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} were used for the training and testing of this Detector
+\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} was used for the training and testing of this detector
 \item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
 \item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
 
@@ -255,11 +254,11 @@
 \section*{\LARGE \textbf{Development and Cyber Security}\xfilll[0pt]{0.5pt}}
 \vspace{-10pt}
 
-\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website (FOOXT) $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
+\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website (FOOXT) $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
 \item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
-\item\fontdimen1\font=0.5em \textls[5]{Used \textbf{Framer Motion} to incorporate animations, while also making the page \textbf{responsive to multiple viewports}}
+\item\fontdimen1\font=0.5em \textls[5]{Incorporated \textbf{Framer Motion} for animations, while also making the page \textbf{responsive to multiple viewports}}
 \item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page.}
 \end{itemize}
 {\fontsize{12}{12} \textbf{CS101 Course Project $|$ Computer Programming and Utilization}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
@@ -282,7 +281,7 @@
 \end{itemize}
 
 \vspace{-3pt}
-\noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (Jun'22 - Jul'22)}
+\noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (2019)}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
 \item\fontdimen1\font=0.5em Made a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface}
@@ -292,50 +291,13 @@
 
 \vspace{-20pt}
 
-\section*{\LARGE \textbf{Energy Sciences}\xfilll[0pt]{0.5pt}}
-\vspace{-10pt}
-{\fontsize{12}{12} \textbf{EN110 Course Project $|$ Fundamentals of Energy Engineering}}  \hfill{\sl \small (Mar'22 - Jun'22)}
-{\it Guide: Prof. Shireesh B Kedare $|$ Department of Energy Science and Engineering} \hfill{\it IIT Bombay}\hspace{-2pt}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Build a  \textbf{working Solar Cooker} using common household material in a group of 3 in \textbf{online mode}
-\item\fontdimen1\font=0.5em \textls[5]{Each member built a version of the cooker keeping one of the key factors of cooking in mind, hence making 3 models}
-\item\fontdimen1\font=0.5em \textls[-20]{Found problems with each initial model, fount the possible causes and made updated models addressing each issue}
-\end{itemize}
-\vspace{-3pt}
-{\fontsize{12}{12} \textbf{EN110 Course Presentation $|$ Fundamentals of Energy Engineering}}  \hfill{\sl \small (Mar'22 - Jun'22)}
-{\it Guide: Prof. Shireesh B Kedare $|$ Department of Energy Science and Engineering} \hfill{\it IIT Bombay}\hspace{-2pt}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Analysed a  \textbf{Research Paper} on \textbf{Experience Curves} and its effect on costs of \textbf{Energy resources}
-\item\fontdimen1\font=0.5em \textls[5]{Understood and explained the concept of how with time and experience the cost of energy resources decreases}
-\item\fontdimen1\font=0.5em \textls[-20]{Held a discussion with the class on how \textbf{Renewable energy resources} will prove to be \textbf{cost effective} as time passes}
-\end{itemize}
-
-\section*{\LARGE \textbf{Electronics and Robotics}\xfilll[0pt]{0.5pt}}
-\vspace{-10pt}
-{\fontsize{12}{12} \textbf{Mobile Controlled Robot (XLR8) $|$ Electronics and Robotics Club, IIT Bombay}}  \hfill{\sl \small (Aug'22)}
-
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Created a team of 4 motivated members in order to compete against  \textbf{140+ teams} in an obstacle course
-\item\fontdimen1\font=0.5em \textls[5]{Hardware equipments include \textbf{Motor Driver L293D} and \textbf{ESP32} making the bot controllable through Wifi}
-\item\fontdimen1\font=0.5em \textls[-20]{The robot was fabricated to be capable of \textbf{dealing with obstacles} along the path and to complete the course}
-\end{itemize}
-
-\vspace{-3pt}
-\noindent{\fontsize{12}{12} \textbf{Robot Simulation (fROSty) $|$ Electronics and Robotics Club, IIT Bombay}}  \hfill{\sl \small (Dec'22)}
-
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em The objective of the project was to program a \textbf{turtlebot} to exit a maze using \textbf{ROS- Noetic} using visual topics.  
-\item\fontdimen1\font=0.5em \textls[5]{The project involved visualization using \textbf{Gazebo and Rviz} when the robot would move in predefined worlds}
-\item\fontdimen1\font=0.5em \textls[-20]{The project also involved the use of \textbf{Aruco Markers} which gave clues on the location of walls and the right path}
-\end{itemize}
 
 
 
-\vspace{-20pt}
+
+
+
+\vspace{0pt}
 \section*{\LARGE \color{myblue}Positions of Responsibility\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-10pt}
 {\fontsize{12}{12} {\textbf{Mentor $|$ Department Academic Mentorship Program (DAMP), SMP }}} \hfill{\sl \small (May'23 - Present)}\\
@@ -352,10 +314,10 @@
 \vspace{-15pt}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 
-\item\fontdimen1\font=0.5em \textls[10]{Worked on the previous webpages of NSS, making changes to the current working year's PORs and events }
-\item\fontdimen1\font=0.5em Made a \textbf{notification button} in the home page which displays the latest Events and also gives a Parallax effect
-\item\fontdimen1\font=0.5em \textls[10]{Worked on Footer and headers of the latest web page for the \textbf{Annual flagship event of NSS, Flare 2022}}
-\item\fontdimen1\font=0.5em \textls[10]{Was a part of the \textbf{Logistics Team}, participating in the on ground planning and execution of the Flare 2022 stalls}
+\item\fontdimen1\font=0.5em \textls[10]{Contributed to the previous webpages of NSS, making changes to the current working year's PORs and events }
+\item\fontdimen1\font=0.5em Prepared a \textbf{notification button} in the home page which displays the latest Events and also gives a Parallax effect
+\item\fontdimen1\font=0.5em \textls[10]{Created Footers and headers of the latest web page for the \textbf{Annual flagship event of NSS, Flare 2022}}
+\item\fontdimen1\font=0.5em \textls[10]{Integral part of the \textbf{Logistics Team}, participating in the on ground planning and execution of Flare 2022 stalls}
 \end{itemize}
 \\
 \vspace{0pt}
@@ -364,9 +326,9 @@
 \vspace{-15pt}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
 leftmargin=5.5mm]
-\item\fontdimen1\font=0.5em Worked on the main website template, the footer and the \textbf{scroll animations}, also making changes in the template
+\item\fontdimen1\font=0.5em Edited the main website template, the footer and the \textbf{scroll animations}, also making changes in the template
 \item\fontdimen1\font=0.5em Major work on \textbf{commenting the template}, positioning the logo elements and \textbf{fixing the view widths}
-\item\fontdimen1\font=0.5em \textls[-30]{Designed individual pages for different sections of the main website using the Figma file given}
+
 \end{itemize}
 \\
 \vspace{-20pt}
@@ -425,25 +387,23 @@ leftmargin=5.5mm]
 \vspace{-12pt}
 \begin{tabular}{p{3cm}p{35cm}}
   \textbf{Programming} & C\texttt{+}\texttt{+}, Python, Java, HTML, CSS, \textbf{Javascript}\\
-  \textbf{Development} & BootStrap, Angular, \textbf{MySQL, NodeJS, React JS, MongoDB, Express}, Django\\
-   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Numpy, Pandas}, Matplotlib, Django, Tensorflow, Keras, Rospy
+  \textbf{Development} & BootStrap, Tailwind, Angular, MySQL, \textbf{NodeJS, React JS, MongoDB, Express}, Django\\
+   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em Numpy, Pandas, Matplotlib, Django, \textbf{Tensorflow, Keras, Pytorch}, Rospy
 \end{tabular}
 \vspace{-18pt}
 % % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
 
 \section*{\LARGE \color{myblue}Key Courses Undertaken\xfilll[0pt]{1pt}} \vspace{-10pt}
 \begin{itemize}[label=\textcolor{myblue} ,itemsep = -1.25mm, leftmargin=1.5mm]
-\item\textbf{Math and CS courses:}
- Computer Programming and Utilization,  Data Analysis and Interpretation,
- Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis*, Introduction to Machine Learning*
+\item\textbf{Math and CS courses:} Computer Programming and Utilization,  Data Analysis and Interpretation,Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis, Introduction to Machine Learning, Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders and Reinforcement Learning, Computer Networks*
  \item\textbf{Energy Science:} 
- Thermodynamics and Energy Conversion, Basic Electrical and Electronics Engineering, Mechanics of Materials, Transport Phenomenon*, Electrical Machines*, Material Science for Energy Applications*
+ Thermodynamics and Energy Conversion, Basic Electrical and Electronics Engineering, Mechanics of Materials, Transport Phenomenon, Electrical Machines, Material Science for Energy Applications, Power Electronics*, Reaction Engineering and Combustion*, Thermo-Fluid Devices*
 
 
  
 \end{itemize}
 \vspace{-7pt}
-\hfill{\textit{(*: To be completed by April'23)}}
+\hfill{\textit{(*: To be completed by Nov'24)}}
 \vspace{-22pt}
 \vspace{15pt}
 
