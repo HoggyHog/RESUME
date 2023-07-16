@@ -33,18 +33,18 @@
 %\vspace{-18pt}
 \hspace{-0.6cm} Pursuing Minor in \textbf{Artificial Intelligence and Data Science} 
 \vspace{-15pt}
-\section*{{\LARGE \color{myblue} Scholastic Achievements}\color{myblue}\xfilll[0pt]{0.5pt}}
+\section*{{\LARGE \color{myblue} Scholastic Acheivements}\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-10pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
     %\item\fontdimen1\font=0.5em Secured \textbf{All India Rank 7358} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
     \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
     \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates \hfill\em{(2021)}\em{}
     %\item\fontdimen1\font=0.5em Scored \textbf{95\%} marks in \textbf{CBSE Boards 2021} and Scored \textbf{348} marks in \textbf{BITSAT 2021}\hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Secured \textbf{AA grade} in 4 courses so far within the Department among 39 students for academic excellence\hfill\em{(2022)}\em{}
+    \item\fontdimen1\font=0.5em Awarded a total of \textbf{4 AA (10/10) grades} for excellent performance in courses such as \textbf{Data Analytics}\hfill\em{(2022)}\em{}
     
     
 \end{itemize}
-\vspace{-20pt}
+\vspace{-24pt}
 
 % INTERNS
 \section*{\LARGE \color{myblue}Professional Experience\color{myblue}\xfilll[0pt]{0.5pt}}
@@ -56,9 +56,10 @@
 
 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-18pt}
-\item\fontdimen1\font=0.5em \textls[-20]{Implemented the \textbf{Google Maps API} to provide a \textbf{autocomplete field} for the starting and ending location}  
-\item\fontdimen1\font=0.5em \textls[-20]{Also used the API to return a map element with the route embedded between 2 locations given the geopoints }
+\vspace{-20pt}
+\item\fontdimen1\font=0.5em \textls[-20]{Leveraged the \textbf{Google Maps API}, seamlessly integrating an autocomplete field for precise input of target locations}  
+\item\fontdimen1\font=0.5em \textls[-20]{Harnessed the API's functionality to generate a \textbf{map element} with the embedded route between the \textbf
+{geopoints} }
 \item\fontdimen1\font=0.5em \textls[6]{Implemented \textbf{Framer Motion}, created React components from \textbf{Figma}, made site responsive to multiple viewports. }
 \item\fontdimen1\font=0.5em \textls[-20]{Integrated the APIs with the frontend, used \textbf{Postman Documenter} to communicate efficiently with backend team.}
 
@@ -196,11 +197,13 @@
 % \vspace{-24pt}
 % \vspace{\baselineskip}
 
-\section*{\LARGE \color{myblue}Key Projects Undertaken\color{myblue}\xfilll[0pt]{0.5pt}}
+\section*{\LARGE \color{myblue} Key Projects Undertaken\color{myblue}\xfilll[0pt]{0.5pt}}
 
-\vspace{-10pt}
-\section*{\LARGE \textbf{Data Science and Machine Learning}\xfilll[0pt]{0.5pt}}
-\vspace{-10pt}
+\vspace{-12pt}
+\section*{\LARGE \textbf{Data Science and Machine Learning}}
+\vspace{-12pt}
+\hline
+\vspace{6pt}
 {\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Feb'23-Present)}\\
 \hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem (Book Label Detection)}} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -212,7 +215,7 @@
 \end{itemize}
 \vspace{-3pt}
 {\fontsize{12}{12} \textbf{DS303 Course Project $|$ Introduction to Machine Learning}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
-\hspace{0pt}{\it Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} \hfill{\it IIT Bombay}\
+\hspace{0pt}{\it Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-8pt}
 \item\fontdimen1\font=0.5em Implemented a \textbf{research paper} to analyse the significant features in models such as \textbf{RF and LightGBM}
@@ -225,8 +228,8 @@
 {\fontsize{12}{12} \textbf{Facial Recognition using Siamese Networks $|$ Self- Project}}  \hfill{\sl \small (May'23-Jun'23)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-17pt}
-\item\fontdimen1\font=0.5em Task was to create a Facial Recognition Model using Contrastive Learning on positive and negative samples
-\item\fontdimen1\font=0.5em \textls[5]{\textbf{Data pre-processing} involved collecting \textbf{1000+ images} and then using a \textbf{DataLoader} to create samples }
+\item\fontdimen1\font=0.5em Built a Facial Recognition Model with an emphasis on \textbf{Contrastive Learning on positive and negative samples}
+\item\fontdimen1\font=0.5em \textls[5]{Curated a comprehensive dataset of \textbf{1000+ images}, subjected to sample creation using a DataLoader  }
 \item\fontdimen1\font=0.5em \textls[5]{Implemented Model architecture from the \textbf{Siamese Neural Networks paper}, based on \textbf{Contrastive Learning}}
 \item\fontdimen1\font=0.5em \textls[-20]{For inference, input image was sampled against \textbf{50 validation images} to return a score compared with preset threshold}
 
@@ -251,9 +254,10 @@
 \end{itemize}
 \newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
 \vspace{-3pt}
-\section*{\LARGE \textbf{Development and Cyber Security}\xfilll[0pt]{0.5pt}}
+\section*{\LARGE \textbf{Development and Cyber Security}\xfilll[0pt]{0pt}}
 \vspace{-10pt}
-
+\hline
+\vspace{4pt}
 \noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website (FOOXT) $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
@@ -262,7 +266,7 @@
 \item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page.}
 \end{itemize}
 {\fontsize{12}{12} \textbf{CS101 Course Project $|$ Computer Programming and Utilization}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
-\hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} \hfill{\it IIT Bombay}
+\hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} 
 \vspace{-3pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input
@@ -395,9 +399,9 @@ leftmargin=5.5mm]
 
 \section*{\LARGE \color{myblue}Key Courses Undertaken\xfilll[0pt]{1pt}} \vspace{-10pt}
 \begin{itemize}[label=\textcolor{myblue} ,itemsep = -1.25mm, leftmargin=1.5mm]
-\item\textbf{Math and CS courses:} Computer Programming and Utilization,  Data Analysis and Interpretation,Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis, Introduction to Machine Learning, Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders and Reinforcement Learning, Computer Networks*
- \item\textbf{Energy Science:} 
- Thermodynamics and Energy Conversion, Basic Electrical and Electronics Engineering, Mechanics of Materials, Transport Phenomenon, Electrical Machines, Material Science for Energy Applications, Power Electronics*, Reaction Engineering and Combustion*, Thermo-Fluid Devices*
+\item\textbf{Mathematics:} Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis,
+\vspace{3pt}
+\item\textbf{Computer Science:} Computer Programming and Utilization,  Data Analysis and Interpretation,Calculus, Numerical Analysis, Introduction to Machine Learning, Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders and Reinforcement Learning, Computer Networks*
 
 
  
