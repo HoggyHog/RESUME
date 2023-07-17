@@ -47,97 +47,6 @@
 \vspace{-20pt}
 
 % INTERNS
-
-\section*{\LARGE \color{myblue}Key Projects Undertaken\color{myblue}\xfilll[0pt]{0.5pt}}
-
-\vspace{-10pt}
-
-\vspace{-3pt}
-\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website (FOOXT) $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
-\item\fontdimen1\font=0.5em \textls[5]{Incorporated \textbf{Framer Motion} for animations, while also making the page \textbf{responsive to multiple viewports}}
-\item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page.}
-\end{itemize}
-
-\vspace{-3pt}
-\noindent{\fontsize{12}{12} \textbf{IPOD Clone $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Made an IPOD web app using \textbf{React} which played music in real time, songs could be paused, played and changed
-\item\fontdimen1\font=0.5em \textls[5]{The songs were pre loaded into the working directory, which could be uploaded onto \textbf{Firebase}, as an improvisation}
-\item\fontdimen1\font=0.5em \textls[-20]{The functionality of the Scroll Wheel is implemented from a library \textbf{ZingTouch}, and the Web app is hosted on \textbf{Netlify}}
-\end{itemize}
-
-\vspace{-3pt}
-\noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (2019)}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Made a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface}
-\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a SQL Database and then retrieved when necessary}
-\item\fontdimen1\font=0.5em \textls[-20]{The usernames and password of a user can be retrieved after login with a unique \textbf{master name and master key}}
-\end{itemize}
-
-
-\noindent{{\fontsize{12}{12} \textbf{CS101 Course Project $|$ Computer Programming and Utilization}}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
-\hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} 
-\vspace{-3pt}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input
-\item\fontdimen1\font=0.5em \textbf{ETAI and Dictionary Closure} techniques were used to match the encrypted word with the dictionary
-\item\fontdimen1\font=0em \textls[-10]{The magic word was to be found based on which the key was framed, and that should be returned back as output}
-\end{itemize}
-
-\vspace{-20pt}
-
-
-
-
-
-
-
-% Combining these 2 points into one
-
-% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Institute Student Mentor $|$ IIT Bombay}}} \hfill{\sl \small (Jun'22 - Present)}\\
-% \vspace{-30pt}\\
-% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
-% leftmargin=5.5mm]
-
-
-% \item\fontdimen1\font=0.5em Part of a 144 membered team aiming to play a facilitative, supportive, and developmental role for first-year UG students
-% \item\fontdimen4\font=1pt \textls[-10]{One of only 15 $3^{rd}$ year students selected among 1,300+ students after a rigorous interview process and peer reviews}
-% \item\fontdimen1\font=0.5em Responsible for mentoring and guiding a group of incoming first-year UG students in academic and co-curricular endeavors
-
-% \end{itemize}
-
-
-
-% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Institute Student Mentor $|$ IIT Bombay}}} \hfill{\sl \small (Jun'22 - Present)}\\
-% \vspace{-30pt}\\
-% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
-% leftmargin=5.5mm]
-
-
-% \item\fontdimen1\font=0.5em Part of a 144 membered team aiming to play a facilitative, supportive, and developmental role for first-year UG students
-% \item\fontdimen4\font=1pt \textls[-10]{One of only 15 $3^{rd}$ year students selected among 1,300+ students after a rigorous interview process and peer reviews}
-% \item\fontdimen1\font=0.5em Responsible for mentoring and guiding a group of incoming first-year UG students in academic and co-curricular endeavors
-
-% \end{itemize}
-% \\
-
-% \vspace{-6pt}
-% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Department Academic Mentor $|$ IIT Bombay}}} \hfill{\sl \small (May'22 - Present)}\\
-% \vspace{-30pt}\\
-% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-% \item\fontdimen1\font=0.5em Part of a \textbf{23 member} team of mentors selected based on interviews & peer-reviews, \textbf{mentoring 6 sophomores}
-% \item\fontdimen1\font=0.5em Helping mentees, strike a balance between \textbf{academics & extracurriculars}, and \textbf{manage time efficiently}
-% \item\fontdimen1\font=0.5em Contributing in 
-% \end{itemize}
-	\\
-\vspace{1pt}
-
-% \vspace{\baselineskip}
 \section*{\LARGE \color{myblue}Professional Experience\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-12pt}
 {\fontsize{12}{12} \textbf{Frontend Development Internship - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
@@ -154,7 +63,7 @@
 
 \end{itemize}
 \\
-\vspace{-3pt}
+\vspace{-6pt}
 {\fontsize{12}{12} \textbf{Software Development Internship $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Present)}\\
 {\it } 
 % \vspace{11pt}
@@ -168,14 +77,14 @@
 
 \end{itemize}
 \\
-\vspace{-2pt}
+\vspace{-6pt}
 {\fontsize{12}{12} \textbf{Software Development Internship $|$ Azzet}}  \hfill{\sl \small (June'22 - Jul'22)}\\
 {\it } 
 % \vspace{11pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-18pt}
-\item\fontdimen1\font=0.5em Developing a \textbf{Landing Page} from a Figma Page using \textbf{React} having \textbf{Float Animations} and \textbf{Infinite Scroll}
-\item\fontdimen1\font=0.5em Adding animations using libraries such as \textbf{React Spring} and \textbf{GSAP} to make the landing page more interactive
+\item\fontdimen1\font=0.5em Developed a \textbf{Landing Page} from a Figma Page using \textbf{React} having \textbf{Float Animations} and \textbf{Infinite Scroll}
+\item\fontdimen1\font=0.5em Added animations using libraries such as \textbf{React Spring} and \textbf{GSAP} to make the landing page more interactive
 
 \end{itemize}
 \vspace{-20pt}
@@ -290,12 +199,104 @@
 % \vspace{\baselineskip}
 \vspace{-1pt}
 
+
+\section*{\LARGE \color{myblue}Key Projects\color{myblue}\xfilll[0pt]{0.5pt}}
+
+\vspace{-10pt}
+
+\vspace{-3pt}
+\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website  $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
+\item\fontdimen1\font=0.5em \textls[5]{Incorporated \textbf{Framer Motion} for animations, while also making the page \textbf{responsive to multiple viewports}}
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page.}
+\end{itemize}
+
+\vspace{-3pt}
+\noindent{\fontsize{12}{12} \textbf{IPOD Clone $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Developed an iPod web app using \textbf{React} that played music in real time, songs could be paused, played and changed
+\item\fontdimen1\font=0.5em \textls[5]{The songs were pre loaded into the working directory, which could be uploaded onto \textbf{Firebase}, as an improvisation}
+\item\fontdimen1\font=0.5em \textls[-20]{Implemented Scroll Wheel functionality by harnessing the \textbf{ZingTouch} ibrary, and the Web app is hosted on \textbf{Netlify}}
+\end{itemize}
+
+\vspace{-3pt}
+\noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (2019)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Developed a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface (GUI)}
+\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a SQL Database and then retrieved when necessary}
+\item\fontdimen1\font=0.5em \textls[-20]{Retreived the usernames and passwords of the user after validation with a unique \textbf{master name and master key}}
+\end{itemize}
+
+\vspace{-4pt}
+\noindent{{\fontsize{12}{12} \textbf{CS101 Course Project $|$ Computer Programming and Utilization}}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
+\hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} 
+\vspace{-6pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input to the program
+\item\fontdimen1\font=0.5em \textbf{ETAI and Dictionary Closure} techniques were used to match the encrypted word with the dictionary provided
+\item\fontdimen1\font=0em \textls[-10]{The magic word was to be found based on which the key was framed, and that should be returned back as output}
+\end{itemize}
+
+\vspace{-20pt}
+
+
+
+
+
+
+
+% Combining these 2 points into one
+
+% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Institute Student Mentor $|$ IIT Bombay}}} \hfill{\sl \small (Jun'22 - Present)}\\
+% \vspace{-30pt}\\
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
+% leftmargin=5.5mm]
+
+
+% \item\fontdimen1\font=0.5em Part of a 144 membered team aiming to play a facilitative, supportive, and developmental role for first-year UG students
+% \item\fontdimen4\font=1pt \textls[-10]{One of only 15 $3^{rd}$ year students selected among 1,300+ students after a rigorous interview process and peer reviews}
+% \item\fontdimen1\font=0.5em Responsible for mentoring and guiding a group of incoming first-year UG students in academic and co-curricular endeavors
+
+% \end{itemize}
+
+
+
+% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Institute Student Mentor $|$ IIT Bombay}}} \hfill{\sl \small (Jun'22 - Present)}\\
+% \vspace{-30pt}\\
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
+% leftmargin=5.5mm]
+
+
+% \item\fontdimen1\font=0.5em Part of a 144 membered team aiming to play a facilitative, supportive, and developmental role for first-year UG students
+% \item\fontdimen4\font=1pt \textls[-10]{One of only 15 $3^{rd}$ year students selected among 1,300+ students after a rigorous interview process and peer reviews}
+% \item\fontdimen1\font=0.5em Responsible for mentoring and guiding a group of incoming first-year UG students in academic and co-curricular endeavors
+
+% \end{itemize}
+% \\
+
+% \vspace{-6pt}
+% \hspace{-7mm}{\fontsize{12}{12} {\textbf{Department Academic Mentor $|$ IIT Bombay}}} \hfill{\sl \small (May'22 - Present)}\\
+% \vspace{-30pt}\\
+% \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+% \item\fontdimen1\font=0.5em Part of a \textbf{23 member} team of mentors selected based on interviews & peer-reviews, \textbf{mentoring 6 sophomores}
+% \item\fontdimen1\font=0.5em Helping mentees, strike a balance between \textbf{academics & extracurriculars}, and \textbf{manage time efficiently}
+% \item\fontdimen1\font=0.5em Contributing in 
+% \end{itemize}
+	\\
+\vspace{-3pt}
+
+% \vspace{\baselineskip}
+
 \section*{\LARGE \color{myblue}Technical Skills\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-12pt}
 \begin{tabular}{p{3cm}p{35cm}}
-  \textbf{Programming} & C\texttt{+}\texttt{+}, Python, Java, HTML, CSS, \textbf{Javascript}\\
-  \textbf{Development} & BootStrap, Tailwind, Angular, MySQL, \textbf{NodeJS, React JS, MongoDB, Express}, Django\\
-   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em Numpy, Pandas, Matplotlib, Django, \textbf{Tensorflow, Keras, Pytorch}, Rospy
+  \textbf{Programming} & \textbf{C\texttt{+}\texttt{+}, Javascript, Python}, Java, HTML, CSS \\
+  \textbf{Development} & \textbf{NodeJS, React JS, MongoDB, Express}, BootStrap, Tailwind, Angular, MySQL, Django\\
+   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django, Rospy
 \end{tabular}
 \vspace{-18pt}
 % % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
