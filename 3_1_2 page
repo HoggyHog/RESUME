@@ -86,8 +86,8 @@
 % \vspace{11pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-18pt}
-\item\fontdimen1\font=0.5em Developing a \textbf{Landing Page} from a Figma Page using \textbf{React} having \textbf{Float Animations} and \textbf{Infinite Scroll}
-\item\fontdimen1\font=0.5em Adding animations using libraries such as \textbf{React Spring} and \textbf{GSAP} to make the landing page more interactive
+\item\fontdimen1\font=0.5em Developed a \textbf{Landing Page} from a Figma Page using \textbf{React} having \textbf{Float Animations} and \textbf{Infinite Scroll}
+\item\fontdimen1\font=0.5em Added animations using libraries such as \textbf{React Spring} and \textbf{GSAP} to make the landing page more interactive
 
 \end{itemize}
 \vspace{-20pt}
@@ -197,7 +197,7 @@
 % \vspace{-24pt}
 % \vspace{\baselineskip}
 
-\section*{\LARGE \color{myblue} Key Projects Undertaken\color{myblue}\xfilll[0pt]{0.5pt}}
+\section*{\LARGE \color{myblue} Key Projects\color{myblue}\xfilll[0pt]{0.5pt}}
 
 \vspace{-12pt}
 \section*{\LARGE \textbf{Data Science and Machine Learning}}
@@ -205,11 +205,11 @@
 \hline
 \vspace{6pt}
 {\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Feb'23-Present)}\\
-\hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem (Book Label Detection)}} 
+\hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem $ \vert $  Book Label Detection}} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
-\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image, passed down the pipeline for processing.}
-\item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} by  making a \textbf{Custom Dataset} of the \textbf{500+ books} and mannually annotating the labels}
+\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image then passed down the pipeline for processing.}
+\item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} by  making a \textbf{Custom Dataset} of the \textbf{500+ books} and manually annotating the labels}
 \item\fontdimen1\font=0.5em \textls[-20]{Extracted targeted words from the labels by employing \textbf{EasyOCR} library for Optical Character Reading (OCR)}
 
 \end{itemize}
@@ -218,7 +218,7 @@
 \hspace{0pt}{\it Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-8pt}
-\item\fontdimen1\font=0.5em Implemented a \textbf{research paper} to analyse the significant features in models such as \textbf{RF and LightGBM}
+\item\fontdimen1\font=0.5em Implemented a \textbf{research paper} to study the significant features in models such as \textbf{Random Forest and LightGBM}
 \item\fontdimen1\font=0.5em \textls[5]{Utilized the \textbf{Iranian Customer Churn dataset}, with customer churn being the target variable for the model}
 \item\fontdimen1\font=0.5em \textls[-20]{Employed the \textbf{SHAP and LIME} frameworks on the model to understand which features were the most significant}
 \item\fontdimen1\font=0.5em \textls[-20]{\textbf{Evaluation} was based on removing most significant features and noting its effect on the \textbf{Error metrics }(R^2,MSE,MAE) }
@@ -228,17 +228,17 @@
 {\fontsize{12}{12} \textbf{Facial Recognition using Siamese Networks $|$ Self- Project}}  \hfill{\sl \small (May'23-Jun'23)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-17pt}
-\item\fontdimen1\font=0.5em Built a Facial Recognition Model with an emphasis on \textbf{Contrastive Learning on positive and negative samples}
-\item\fontdimen1\font=0.5em \textls[5]{Curated a comprehensive dataset of \textbf{1000+ images}, subjected to sample creation using a DataLoader  }
+\item\fontdimen1\font=0.5em Built a Facial Recognition Model with an emphasis on \textbf{Contrastive Learning} on positive and negative samples
+\item\fontdimen1\font=0.5em \textls[5]{Curated a comprehensive dataset of \textbf{1000+ images} which was then subjected to sample creation using a DataLoader  }
 \item\fontdimen1\font=0.5em \textls[5]{Implemented Model architecture from the \textbf{Siamese Neural Networks paper}, based on \textbf{Contrastive Learning}}
-\item\fontdimen1\font=0.5em \textls[-20]{For inference, input image was sampled against \textbf{50 validation images} to return a score compared with preset threshold}
+\item\fontdimen1\font=0.5em \textls[-20]{Inference involved sampling the input image with \textbf{50 validation images} to return a score compared with preset threshold}
 
 \end{itemize}
 \vspace{-3pt}
 {\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-17pt}
-\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} was used for the training and testing of this detector
+\item\fontdimen1\font=0.5em Utilized a dataset of about \textbf{35,000+ images from Kaggle's fer2013} for the training and testing of this detector
 \item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
 \item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
 
@@ -258,7 +258,7 @@
 \vspace{-10pt}
 \hline
 \vspace{4pt}
-\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website (FOOXT) $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
+\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
 \item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
@@ -269,8 +269,8 @@
 \hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} 
 \vspace{-3pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input
-\item\fontdimen1\font=0.5em \textbf{ETAI and Dictionary Closure} techniques were used to match the encrypted word with the dictionary
+\item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input to the program
+\item\fontdimen1\font=0.5em \textbf{ETAI and Dictionary Closure} techniques were used to match the encrypted word with the dictionary provided
 \item\fontdimen1\font=0em \textls[-10]{The magic word was to be found based on which the key was framed, and that should be returned back as output}
 \end{itemize}
 
@@ -279,18 +279,18 @@
 \noindent{\fontsize{12}{12} \textbf{IPOD Clone $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
-\item\fontdimen1\font=0.5em Made an IPOD web app using \textbf{React} which played music in real time, songs could be paused, played and changed
+\item\fontdimen1\font=0.5em Developed an IPOD web app using \textbf{React} that played music in real time, songs could be paused, played and changed
 \item\fontdimen1\font=0.5em \textls[5]{The songs were pre loaded into the working directory, which could be uploaded onto \textbf{Firebase}, as an improvisation}
-\item\fontdimen1\font=0.5em \textls[-20]{The functionality of the Scroll Wheel is implemented from a library \textbf{ZingTouch}, and the Web app is hosted on \textbf{Netlify}}
+\item\fontdimen1\font=0.5em \textls[-20]{Implemented Scroll Wheel functionality by harnessing the \textbf{ZingTouch} ibrary, and the Web app is hosted on \textbf{Netlify}}
 \end{itemize}
 
 \vspace{-3pt}
 \noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (2019)}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
-\item\fontdimen1\font=0.5em Made a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface}
+\item\fontdimen1\font=0.5em Developed a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface (GUI)}
 \item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a SQL Database and then retrieved when necessary}
-\item\fontdimen1\font=0.5em \textls[-20]{The usernames and password of a user can be retrieved after login with a unique \textbf{master name and master key}}
+\item\fontdimen1\font=0.5em \textls[-20]{Retreived the usernames and passwords of the user after validation with a unique \textbf{master name and master key}}
 \end{itemize}
 
 \vspace{-20pt}
@@ -326,7 +326,7 @@
 \\
 \vspace{0pt}
 {\fontsize{12}{12} {\textbf{Web Developer $|$ Veloce, IIT Bombay}}} \hfill{\sl \small (Jun'22 - Apr'23)}\\
-{\it \textls[-10]{Selected to be part of a 3-membered team through a selection process of assignment on Django followed by interview}}
+{\it \textls[-10]{Selected to be part of a 3-membered team based on an assignment on Django followed by an interview}}
 \vspace{-15pt}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
 leftmargin=5.5mm]
@@ -390,9 +390,9 @@ leftmargin=5.5mm]
 \section*{\LARGE \color{myblue}Technical Skills\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-12pt}
 \begin{tabular}{p{3cm}p{35cm}}
-  \textbf{Programming} & C\texttt{+}\texttt{+}, Python, Java, HTML, CSS, \textbf{Javascript}\\
-  \textbf{Development} & BootStrap, Tailwind, Angular, MySQL, \textbf{NodeJS, React JS, MongoDB, Express}, Django\\
-   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em Numpy, Pandas, Matplotlib, Django, \textbf{Tensorflow, Keras, Pytorch}, Rospy
+  \textbf{Programming} & \textbf{C\texttt{+}\texttt{+}, Javascript, Python}, Java, HTML, CSS \\
+  \textbf{Development} & \textbf{NodeJS, React JS, MongoDB, Express}, BootStrap, Tailwind, Angular, MySQL, Django\\
+   \textbf{\fontdimen1\font=0.7em Data Science\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django, Rospy
 \end{tabular}
 \vspace{-18pt}
 % % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
@@ -425,13 +425,13 @@ leftmargin=5.5mm]
 %     \vspace{-0.4cm}
 % \end{itemize} \\
 % \hline
-\centering \vspace{2.5mm}{\textbf{Sports}} &  \begin{itemize}[label={\textbullet},itemsep = -0.9 mm, leftmargin=*]
+\centering \vspace{2.5mm}{\textbf{Sports}} &  \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.9 mm, leftmargin=*]
     \vspace{-0.5cm}
     \item\fontdimen2\font=0.4em Won Silver in 4x100 Medley Relay at Inter-IIT Aquatics representing IIT Bombay \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
     \item\fontdimen2\font=0.4em Completed a year long extensive training under \textbf{National Sports Organisation (NSO)} \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
     % \vspace{-4.9mm}
     \item\fontdimen2\font=0.4em Achieved 2nd place in 5000m sprint in CBSE State Zonals at Karnataka \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
-    \item\fontdimen2\font=0.4em Represented Karnataka at CBSE Nationals for 5000m sprint. \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item\fontdimen2\font=0.4em One of 2 Athletes selected to represent Karnataka at CBSE Nationals for 5000m sprint. \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
     
     \vspace{-0.4cm}
 \end{itemize} \\
@@ -439,7 +439,7 @@ leftmargin=5.5mm]
 
 
 \hline
-\centering \vspace{2.5mm}{\textbf{Cultural}} &  \begin{itemize}[label={\textbullet},itemsep = -0.9 mm, leftmargin=*]
+\centering \vspace{2.5mm}{\textbf{Cultural}} &  \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.9 mm, leftmargin=*]
     \vspace{-0.5cm}
     \item \fontdimen2\font=0.42em  Was a guitarist of the hostel band which won 2nd Runners-Up in  \textbf{Goonj-22}   \hfill{\sl \small (2023)}\hspace{-0.3mm}\fontdimen2\font=0.5em
     \item \fontdimen2\font=0.5em Participated in \textbf{Freshieza Showcase} as the lead guitarist for a band performance \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
