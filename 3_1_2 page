@@ -33,14 +33,14 @@
 %\vspace{-18pt}
 \hspace{-0.6cm} Pursuing Minor in \textbf{Artificial Intelligence and Data Science} 
 \vspace{-15pt}
-\section*{{\LARGE \color{myblue} Scholastic Acheivements}\color{myblue}\xfilll[0pt]{0.5pt}}
+\section*{{\LARGE \color{myblue} Scholastic Achievements}\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-10pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
     %\item\fontdimen1\font=0.5em Secured \textbf{All India Rank 7358} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates \hfill\em{(2021)}\em{}
+    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates {\hfill\sl{(2021)}}
+    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates {\hfill\sl{(2021)}}
     %\item\fontdimen1\font=0.5em Scored \textbf{95\%} marks in \textbf{CBSE Boards 2021} and Scored \textbf{348} marks in \textbf{BITSAT 2021}\hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Awarded a total of \textbf{4 AA (10/10) grades} for excellent performance in courses such as \textbf{Data Analytics}\hfill\em{(2022)}\em{}
+    \item\fontdimen1\font=0.5em Awarded a total of \textbf{4 AA (10/10) grades} for excellent performance in courses including \textbf{Data Analytics}{\hfill\sl{(2021)}}
     
     
 \end{itemize}
@@ -52,7 +52,7 @@
 
 
 
-{\fontsize{12}{12} \textbf{Frontend Development Internship - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
+{\fontsize{12}{12} \textbf{Frontend Development Intern - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
 
 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -67,13 +67,13 @@
 \end{itemize}
 \\
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{Software Development Internship $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Present)}\\
+{\fontsize{12}{12} \textbf{Software Development Intern $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Present)}\\
 {\it } 
 % \vspace{11pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-18pt}
 \item\fontdimen1\font=0.5em Worked primarily on Backend, implementing \textbf{MERN Stack} and dealing with images/files using \textbf{GridFS}
-\item\fontdimen1\font=0.5em Created a \textbf{Users Database} which dealt with all the required logistics and also included Email Authentication 
+\item\fontdimen1\font=0.5em Created a \textbf{Users Database} which dealt with all the required logistics and also included \textbf{Email Authentication}
 \item\fontdimen1\font=0.5em Defined the \textbf{APIs for CRUD operations} in the Users Database and also worked on integrating it with the frontend
 \item\fontdimen1\font=0.5em Implemented the booking APIs dealing with the creation of bookings for the StoreFront app used by Hotels
 
@@ -81,7 +81,7 @@
 \end{itemize}
 \\
 \vspace{-2pt}
-{\fontsize{12}{12} \textbf{Software Development Internship $|$ Azzet}}  \hfill{\sl \small (June'22 - Jul'22)}\\
+{\fontsize{12}{12} \textbf{Software Development Intern $|$ Azzet}}  \hfill{\sl \small (June'22 - Jul'22)}\\
 {\it } 
 % \vspace{11pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -205,21 +205,21 @@
 \hline
 \vspace{6pt}
 {\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Feb'23-Present)}\\
-\hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem $ \vert $  Book Label Detection}} 
+\hspace{0pt}{ \textbf{\it Artificial Intelligence and Perception Subsystem $ \vert $  Book Label Detection}} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
-\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image then passed down the pipeline for processing.}
+\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image then passed down the pipeline for processing}
 \item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} by  making a \textbf{Custom Dataset} of the \textbf{500+ books} and manually annotating the labels}
 \item\fontdimen1\font=0.5em \textls[-20]{Extracted targeted words from the labels by employing \textbf{EasyOCR} library for Optical Character Reading (OCR)}
 
 \end{itemize}
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{DS303 Course Project $|$ Introduction to Machine Learning}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
-\hspace{0pt}{\it Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
+{\fontsize{12}{12} \textbf{Black-box model with XAI Evaluation $|$ Course Project}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
+\hspace{0pt}{\it DS303 $|$ Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-8pt}
 \item\fontdimen1\font=0.5em Implemented a \textbf{research paper} to study the significant features in models such as \textbf{Random Forest and LightGBM}
-\item\fontdimen1\font=0.5em \textls[5]{Utilized the \textbf{Iranian Customer Churn dataset}, with customer churn being the target variable for the model}
+\item\fontdimen1\font=0.5em \textls[5]{Utilized the \textbf{Iranian Customer Churn dataset} with customer churn being the target variable for the model}
 \item\fontdimen1\font=0.5em \textls[-20]{Employed the \textbf{SHAP and LIME} frameworks on the model to understand which features were the most significant}
 \item\fontdimen1\font=0.5em \textls[-20]{\textbf{Evaluation} was based on removing most significant features and noting its effect on the \textbf{Error metrics }(R^2,MSE,MAE) }
 
@@ -265,8 +265,8 @@
 \item\fontdimen1\font=0.5em \textls[5]{Incorporated \textbf{Framer Motion} for animations, while also making the page \textbf{responsive to multiple viewports}}
 \item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page.}
 \end{itemize}
-{\fontsize{12}{12} \textbf{CS101 Course Project $|$ Computer Programming and Utilization}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
-\hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} 
+{\fontsize{12}{12} \textbf{Decoding Encryption Key $|$ Course Project}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
+\hspace{0pt}{\it CS101 $|$ Guide: Prof. Akshay S  $|$ Department of Computer Science and Engineering} 
 \vspace{-3pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input to the program
@@ -289,7 +289,7 @@
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
 \item\fontdimen1\font=0.5em Developed a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface (GUI)}
-\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a SQL Database and then retrieved when necessary}
+\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a \textbf{SQL Database} and then retrieved when necessary}
 \item\fontdimen1\font=0.5em \textls[-20]{Retreived the usernames and passwords of the user after validation with a unique \textbf{master name and master key}}
 \end{itemize}
 
@@ -304,7 +304,7 @@
 \vspace{0pt}
 \section*{\LARGE \color{myblue}Positions of Responsibility\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-10pt}
-{\fontsize{12}{12} {\textbf{Mentor $|$ Department Academic Mentorship Program (DAMP), SMP }}} \hfill{\sl \small (May'23 - Present)}\\
+{\fontsize{12}{12} {\textbf{Department Academic Mentorship Program (DAMP) Mentor $|$  SMP,IITB }}} \hfill{\sl \small (May'23 - Present)}\\
 {\it Part of a 12 member team, selected on the basis of an \textbf{interview based on mentorship skills}}
 \vspace{-15pt}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -318,7 +318,7 @@
 \vspace{-15pt}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 
-\item\fontdimen1\font=0.5em \textls[10]{Contributed to the previous webpages of NSS, making changes to the current working year's PORs and events }
+\item\fontdimen1\font=0.5em \textls[10]{Contributed to the previous webpages of NSS, making changes and updating the existing codebase on \textbf{PHP} }
 \item\fontdimen1\font=0.5em Prepared a \textbf{notification button} in the home page which displays the latest Events and also gives a Parallax effect
 \item\fontdimen1\font=0.5em \textls[10]{Created Footers and headers of the latest web page for the \textbf{Annual flagship event of NSS, Flare 2022}}
 \item\fontdimen1\font=0.5em \textls[10]{Integral part of the \textbf{Logistics Team}, participating in the on ground planning and execution of Flare 2022 stalls}
@@ -392,14 +392,14 @@ leftmargin=5.5mm]
 \begin{tabular}{p{3cm}p{35cm}}
   \textbf{Programming} & \textbf{C\texttt{+}\texttt{+}, Javascript, Python}, Java, HTML, CSS \\
   \textbf{Development} & \textbf{NodeJS, React JS, MongoDB, Express}, BootStrap, Tailwind, Angular, MySQL, Django\\
-   \textbf{\fontdimen1\font=0.7em Data Science\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django, Rospy
+   \textbf{\fontdimen1\font=0.7em Data Science\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django
 \end{tabular}
 \vspace{-18pt}
 % % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
 
 \section*{\LARGE \color{myblue}Key Courses Undertaken\xfilll[0pt]{1pt}} \vspace{-10pt}
 \begin{itemize}[label=\textcolor{myblue} ,itemsep = -1.25mm, leftmargin=1.5mm]
-\item\textbf{Mathematics:} Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis,
+\item\textbf{Mathematics:} Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis
 \vspace{3pt}
 \item\textbf{Computer Science:} Computer Programming and Utilization,  Data Analysis and Interpretation,Calculus, Numerical Analysis, Introduction to Machine Learning, Supervised Machine Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders and Reinforcement Learning, Computer Networks*
 
@@ -407,7 +407,7 @@ leftmargin=5.5mm]
  
 \end{itemize}
 \vspace{-7pt}
-\hfill{\textit{(*: To be completed by Nov'24)}}
+\hfill{\textit{(*: To be completed by Nov'23)}}
 \vspace{-22pt}
 \vspace{15pt}
 
@@ -430,8 +430,8 @@ leftmargin=5.5mm]
     \item\fontdimen2\font=0.4em Won Silver in 4x100 Medley Relay at Inter-IIT Aquatics representing IIT Bombay \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
     \item\fontdimen2\font=0.4em Completed a year long extensive training under \textbf{National Sports Organisation (NSO)} \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
     % \vspace{-4.9mm}
-    \item\fontdimen2\font=0.4em Achieved 2nd place in 5000m sprint in CBSE State Zonals at Karnataka \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
-    \item\fontdimen2\font=0.4em One of 2 Athletes selected to represent Karnataka at CBSE Nationals for 5000m sprint. \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item\fontdimen2\font=0.4em Achieved 2nd place in 5000m sprint in \textbf{CBSE State Zonals} at Karnataka \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item\fontdimen2\font=0.4em One of 2 Athletes selected to represent Karnataka at CBSE \textbf{Nationals} for 5000m sprint. \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
     
     \vspace{-0.4cm}
 \end{itemize} \\
