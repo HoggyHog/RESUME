@@ -60,14 +60,14 @@
 \item\fontdimen1\font=0.5em \textls[-20]{Leveraged the \textbf{Google Maps API}, seamlessly integrating an autocomplete field for precise input of target locations}  
 \item\fontdimen1\font=0.5em \textls[-20]{Harnessed the API's functionality to generate a \textbf{map element} with the embedded route between the \textbf
 {geopoints} }
-\item\fontdimen1\font=0.5em \textls[6]{Implemented \textbf{Framer Motion}, created React components from \textbf{Figma}, made site responsive to multiple viewports. }
-\item\fontdimen1\font=0.5em \textls[-20]{Integrated the APIs with the frontend, used \textbf{Postman Documenter} to communicate efficiently with backend team.}
+\item\fontdimen1\font=0.5em \textls[6]{Implemented \textbf{Framer Motion}, created React components from \textbf{Figma}, made site responsive to multiple viewports }
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated the APIs with the frontend, used \textbf{Postman Documenter} to communicate efficiently with backend team}
 
 
 \end{itemize}
 \\
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{Software Development Intern $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Present)}\\
+{\fontsize{12}{12} \textbf{Software Development Intern $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Apr'23)}\\
 {\it } 
 % \vspace{11pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -90,7 +90,7 @@
 \item\fontdimen1\font=0.5em Added animations using libraries such as \textbf{React Spring} and \textbf{GSAP} to make the landing page more interactive
 
 \end{itemize}
-\vspace{-20pt}
+\vspace{-15pt}
 % \vspace{0pt}
 
 
@@ -199,7 +199,56 @@
 
 \section*{\LARGE \color{myblue} Key Projects\color{myblue}\xfilll[0pt]{0.5pt}}
 
-\vspace{-12pt}
+\vspace{-7pt}
+\section*{\LARGE \textbf{Development and Cyber Security}\xfilll[0pt]{0pt}}
+\vspace{-10pt}
+\hline
+\vspace{10pt}
+\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
+\item\fontdimen1\font=0.5em \textls[5]{Incorporated \textbf{Framer Motion} for animations, while also making the page \textbf{responsive to multiple viewports}}
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page}
+\end{itemize}
+\vspace{3pt}
+{\fontsize{12}{12} \textbf{Decoding Encryption Key $|$ Course Project}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
+\hspace{0pt}{\it CS101 $|$ Guide: Prof. Akshay S  $|$ Department of Computer Science and Engineering} 
+\vspace{-3pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input to the program
+\item\fontdimen1\font=0.5em \textbf{ETAI and Dictionary Closure} techniques were used to match the encrypted word with the dictionary provided
+\item\fontdimen1\font=0em \textls[-10]{The magic word was to be found based on which the key was framed, and that should be returned back as output}
+\end{itemize}
+
+
+\vspace{3pt}
+\noindent{\fontsize{12}{12} \textbf{IPOD Clone $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Developed an IPOD web app using \textbf{React} that played music in real time, songs could be paused, played and changed
+\item\fontdimen1\font=0.5em \textls[5]{The songs were pre loaded into the working directory, which could be uploaded onto \textbf{Firebase}, as an improvisation}
+\item\fontdimen1\font=0.5em \textls[-20]{Implemented Scroll Wheel functionality by harnessing the \textbf{ZingTouch} ibrary, and the Web app is hosted on \textbf{Netlify}}
+\end{itemize}
+
+\vspace{3pt}
+\noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (2019)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-5pt}
+\item\fontdimen1\font=0.5em Developed a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface (GUI)}
+\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a \textbf{SQL Database} and then retrieved when necessary}
+\item\fontdimen1\font=0.5em \textls[-20]{Retreived the usernames and passwords of the user after validation with a unique \textbf{master name and master key}}
+\end{itemize}
+
+\vspace{-20pt}
+
+
+
+
+
+
+\newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+\vspace{0pt}
 \section*{\LARGE \textbf{Data Science and Machine Learning}}
 \vspace{-12pt}
 \hline
@@ -211,6 +260,16 @@
 \item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image then passed down the pipeline for processing}
 \item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} by  making a \textbf{Custom Dataset} of the \textbf{500+ books} and manually annotating the labels}
 \item\fontdimen1\font=0.5em \textls[-20]{Extracted targeted words from the labels by employing \textbf{EasyOCR} library for Optical Character Reading (OCR)}
+
+\end{itemize}
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{Remote Sensing Image Classification $|$ Research Project}}  \hfill{\sl \small (May'23-Present)}\\
+\hspace{0pt}{\it Project Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
+\vspace{-6pt}
+\item\fontdimen1\font=0.5em {Developed understanding of CNN architectures, \textbf{Transformer attention} mechanism and Transfer learning concepts}
+\item\fontdimen1\font=0.5em \textls[5]{Conducted literature review on \textbf{Feature extraction} from multi-modal data and their fusion through transformers}
+\item\fontdimen1\font=0.5em \textls[-20]{Exploring methods for classification of remote sensing data through feature extraction of \textbf{Hyperspectral} image data}
 
 \end{itemize}
 \vspace{-3pt}
@@ -235,73 +294,19 @@
 
 \end{itemize}
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
+{\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'23)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-17pt}
 \item\fontdimen1\font=0.5em Utilized a dataset of about \textbf{35,000+ images from Kaggle's fer2013} for the training and testing of this detector
 \item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
 \item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
 
-\end{itemize}
-\vspace{-3pt}
-{\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'22)}\\
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-17pt}
-\item\fontdimen1\font=0.5em A dataset of about \textbf{35,000+ images from Kaggle's fer2013} was used for the training and testing of this detector
-\item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
-\item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
-
-\end{itemize}
-\newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
-\vspace{-3pt}
-\section*{\LARGE \textbf{Development and Cyber Security}\xfilll[0pt]{0pt}}
-\vspace{-10pt}
-\hline
-\vspace{4pt}
-\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website $|$ Self Project - React}}  \hfill{\sl \small (Mar'23 - Jun'23)}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
-\item\fontdimen1\font=0.5em \textls[5]{Incorporated \textbf{Framer Motion} for animations, while also making the page \textbf{responsive to multiple viewports}}
-\item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page.}
-\end{itemize}
-{\fontsize{12}{12} \textbf{Decoding Encryption Key $|$ Course Project}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
-\hspace{0pt}{\it CS101 $|$ Guide: Prof. Akshay S  $|$ Department of Computer Science and Engineering} 
-\vspace{-3pt}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input to the program
-\item\fontdimen1\font=0.5em \textbf{ETAI and Dictionary Closure} techniques were used to match the encrypted word with the dictionary provided
-\item\fontdimen1\font=0em \textls[-10]{The magic word was to be found based on which the key was framed, and that should be returned back as output}
-\end{itemize}
 
 
-\vspace{-3pt}
-\noindent{\fontsize{12}{12} \textbf{IPOD Clone $|$ Self Project - React}}  \hfill{\sl \small (Jun'22 - Jul'22)}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Developed an IPOD web app using \textbf{React} that played music in real time, songs could be paused, played and changed
-\item\fontdimen1\font=0.5em \textls[5]{The songs were pre loaded into the working directory, which could be uploaded onto \textbf{Firebase}, as an improvisation}
-\item\fontdimen1\font=0.5em \textls[-20]{Implemented Scroll Wheel functionality by harnessing the \textbf{ZingTouch} ibrary, and the Web app is hosted on \textbf{Netlify}}
-\end{itemize}
-
-\vspace{-3pt}
-\noindent{\fontsize{12}{12} \textbf{Password Manager $|$ Self Project - Python}}  \hfill{\sl \small (2019)}
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
-\vspace{-5pt}
-\item\fontdimen1\font=0.5em Developed a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface (GUI)}
-\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a \textbf{SQL Database} and then retrieved when necessary}
-\item\fontdimen1\font=0.5em \textls[-20]{Retreived the usernames and passwords of the user after validation with a unique \textbf{master name and master key}}
 \end{itemize}
 
 \vspace{-20pt}
 
-
-
-
-
-
-
-\vspace{0pt}
 \section*{\LARGE \color{myblue}Positions of Responsibility\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-10pt}
 {\fontsize{12}{12} {\textbf{Department Academic Mentorship Program (DAMP) Mentor $|$  SMP,IITB }}} \hfill{\sl \small (May'23 - Present)}\\
@@ -324,16 +329,7 @@
 \item\fontdimen1\font=0.5em \textls[10]{Integral part of the \textbf{Logistics Team}, participating in the on ground planning and execution of Flare 2022 stalls}
 \end{itemize}
 \\
-\vspace{0pt}
-{\fontsize{12}{12} {\textbf{Web Developer $|$ Veloce, IIT Bombay}}} \hfill{\sl \small (Jun'22 - Apr'23)}\\
-{\it \textls[-10]{Selected to be part of a 3-membered team based on an assignment on Django followed by an interview}}
-\vspace{-15pt}\\
-\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm,
-leftmargin=5.5mm]
-\item\fontdimen1\font=0.5em Edited the main website template, the footer and the \textbf{scroll animations}, also making changes in the template
-\item\fontdimen1\font=0.5em Major work on \textbf{commenting the template}, positioning the logo elements and \textbf{fixing the view widths}
 
-\end{itemize}
 \\
 \vspace{-20pt}
 \\
