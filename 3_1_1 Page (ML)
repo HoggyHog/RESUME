@@ -37,10 +37,10 @@
 \vspace{-10pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
     %\item\fontdimen1\font=0.5em Secured \textbf{All India Rank 7358} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates \hfill\em{(2021)}\em{}
+    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates {\hfill\sl{(2021)}}
+    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates {\hfill\sl{(2021)}}
     %\item\fontdimen1\font=0.5em Scored \textbf{95\%} marks in \textbf{CBSE Boards 2021} and Scored \textbf{348} marks in \textbf{BITSAT 2021}\hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Awarded a total of \textbf{4 AA (10/10) grades} for excellent performance in courses such as \textbf{Data Analytics}\hfill\em{(2022)}\em{}
+    \item\fontdimen1\font=0.5em Awarded a total of \textbf{4 AA (10/10) grades} for excellent performance in courses including \textbf{Data Analytics}{\hfill\sl{(2022)}}
     
     
 \end{itemize}
@@ -52,21 +52,21 @@
 
 \vspace{-10pt}
 {\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Feb'23-Present)}\\
-\hspace{0pt}{ \textbf{Artificial Intelligence and Perception Subsystem $ \vert $ Book Label Detection}} 
+\hspace{0pt}{ \textbf{\it Artificial Intelligence and Perception Subsystem $ \vert $ Book Label Detection}} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
-\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image then passed down the pipeline for processing.}
+\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image then passed down the pipeline for processing}
 \item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} by  making a \textbf{Custom Dataset} of the \textbf{500+ books} and manually annotating the labels}
 \item\fontdimen1\font=0.5em \textls[-20]{Extracted targeted words from the labels by employing \textbf{EasyOCR} library for Optical Character Reading (OCR)}
 
 \end{itemize}
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{DS303 Course Project $|$ Introduction to Machine Learning}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
-\hspace{0pt}{\it Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
+{\fontsize{12}{12} \textbf{Black-box model with XAI Evaluation $|$ Course Project}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
+\hspace{0pt}{\it DS303 $|$ Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-8pt}
 \item\fontdimen1\font=0.5em Implemented a \textbf{research paper} to study the significant features in models such as \textbf{Random Forest and LightGBM}
-\item\fontdimen1\font=0.5em \textls[5]{Utilized the \textbf{Iranian Customer Churn dataset}, with customer churn being the target variable for the model}
+\item\fontdimen1\font=0.5em \textls[5]{Utilized the \textbf{Iranian Customer Churn dataset} with customer churn being the target variable for the model}
 \item\fontdimen1\font=0.5em \textls[-20]{Employed the \textbf{SHAP and LIME} frameworks on the model to understand which features were the most significant}
 \item\fontdimen1\font=0.5em \textls[-20]{\textbf{Evaluation} was based on removing most significant features and noting its effect on the \textbf{Error metrics }(R^2,MSE,MAE) }
 
@@ -139,7 +139,7 @@
 % \vspace{\baselineskip}
 \section*{\LARGE \color{myblue}Professional Experience\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-12pt}
-{\fontsize{12}{12} \textbf{Frontend Development Internship - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
+{\fontsize{12}{12} \textbf{Frontend Development Intern - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
 
 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -154,7 +154,7 @@
 \end{itemize}
 \\
 \vspace{-3pt}
-{\fontsize{12}{12} \textbf{Software Development Internship $|$ Chocolate Stay}}  \hfill{\sl \small (Aug '22 - Present)}\\
+{\fontsize{12}{12} \textbf{Software Development Intern $|$ Chocolate Stay}}  \hfill{\sl \small (Aug '22 - Present)}\\
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-18pt}
 \item\fontdimen1\font=0.5em \textls[6]{Worked primarily on Backend, implementing \textbf{MERN Stack} and dealing with images/files using \textbf{GridFS} }
@@ -277,7 +277,7 @@
 \begin{tabular}{p{3cm}p{35cm}}
   \textbf{Programming} & \textbf{C\texttt{+}\texttt{+}, Javascript, Python}, Java, HTML, CSS \\
   \textbf{Development} & \textbf{NodeJS, React JS, MongoDB, Express}, BootStrap, Tailwind, Angular, MySQL, Django\\
-   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django, Rospy
+   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django
 \end{tabular}
 \vspace{-18pt}
 % % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
