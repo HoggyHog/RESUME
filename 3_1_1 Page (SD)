@@ -37,10 +37,10 @@
 \vspace{-10pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
     %\item\fontdimen1\font=0.5em Secured \textbf{All India Rank 7358} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates \hfill\em{(2021)}\em{}
+    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates {\hfill\sl{(2021)}}
+    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates {\hfill\sl{(2021)}}
     %\item\fontdimen1\font=0.5em Scored \textbf{95\%} marks in \textbf{CBSE Boards 2021} and Scored \textbf{348} marks in \textbf{BITSAT 2021}\hfill\em{(2021)}\em{}
-    \item\fontdimen1\font=0.5em Awarded a total of \textbf{4 AA (10/10) grades} for excellent performance in courses such as \textbf{Data Analytics}\hfill\em{(2022)}\em{}
+    \item\fontdimen1\font=0.5em Awarded a total of \textbf{4 AA (10/10) grades} for excellent performance in courses including \textbf{Data Analytics}{\hfill\sl{(2022)}}
     
     
 \end{itemize}
@@ -49,7 +49,7 @@
 % INTERNS
 \section*{\LARGE \color{myblue}Professional Experience\color{myblue}\xfilll[0pt]{0.5pt}}
 \vspace{-12pt}
-{\fontsize{12}{12} \textbf{Frontend Development Internship - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
+{\fontsize{12}{12} \textbf{Frontend Development Intern - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
 
 
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -64,13 +64,13 @@
 \end{itemize}
 \\
 \vspace{-6pt}
-{\fontsize{12}{12} \textbf{Software Development Internship $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Present)}\\
+{\fontsize{12}{12} \textbf{Software Development Intern $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Present)}\\
 {\it } 
 % \vspace{11pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-18pt}
 \item\fontdimen1\font=0.5em Worked primarily on Backend, implementing \textbf{MERN Stack} and dealing with images/files using \textbf{GridFS}
-\item\fontdimen1\font=0.5em Created a \textbf{Users Database} which dealt with all the required logistics and also included Email Authentication 
+\item\fontdimen1\font=0.5em Created a \textbf{Users Database} which dealt with all the required logistics and also included \textbf{Email Authentication}
 \item\fontdimen1\font=0.5em Defined the \textbf{APIs for CRUD operations} in the Users Database and also worked on integrating it with the frontend
 \item\fontdimen1\font=0.5em Implemented the booking APIs dealing with the creation of bookings for the StoreFront app used by Hotels
 
@@ -78,7 +78,7 @@
 \end{itemize}
 \\
 \vspace{-6pt}
-{\fontsize{12}{12} \textbf{Software Development Internship $|$ Azzet}}  \hfill{\sl \small (June'22 - Jul'22)}\\
+{\fontsize{12}{12} \textbf{Software Development Intern $|$ Azzet}}  \hfill{\sl \small (June'22 - Jul'22)}\\
 {\it } 
 % \vspace{11pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
@@ -227,13 +227,13 @@
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \vspace{-5pt}
 \item\fontdimen1\font=0.5em Developed a Password Manager using \textbf{tkinter} library in Python to provide a \textbf{Graphical User Interface (GUI)}
-\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a SQL Database and then retrieved when necessary}
+\item\fontdimen1\font=0.5em \textls[5]{The data input from the User Interface was saved into a \textbf{SQL Database} and then retrieved when necessary}
 \item\fontdimen1\font=0.5em \textls[-20]{Retreived the usernames and passwords of the user after validation with a unique \textbf{master name and master key}}
 \end{itemize}
 
 \vspace{-4pt}
-\noindent{{\fontsize{12}{12} \textbf{CS101 Course Project $|$ Computer Programming and Utilization}}}  \hfill{\sl \small (Mar'22 - Jun'22)}\\
-\hspace{0pt}{\it Guide: Prof. Akshay S $|$ Dept. of Computer Science and Engineering} 
+{\fontsize{12}{12} \textbf{Decoding Encryption Key $|$ Course Project}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
+\hspace{0pt}{\it CS101 $|$ Guide: Prof. Akshay S  $|$ Department of Computer Science and Engineering} 
 \vspace{-6pt}
 \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.25mm, leftmargin=5.5mm]
 \item\fontdimen1\font=0.5em The project was to find the \textbf{Encryption Key} when a text file of the encrypted text is given as input to the program
@@ -296,7 +296,7 @@
 \begin{tabular}{p{3cm}p{35cm}}
   \textbf{Programming} & \textbf{C\texttt{+}\texttt{+}, Javascript, Python}, Java, HTML, CSS \\
   \textbf{Development} & \textbf{NodeJS, React JS, MongoDB, Express}, BootStrap, Tailwind, Angular, MySQL, Django\\
-   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django, Rospy
+   \textbf{\fontdimen1\font=0.7em Python Libraries\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django
 \end{tabular}
 \vspace{-18pt}
 % % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
