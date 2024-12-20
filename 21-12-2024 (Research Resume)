@@ -1,0 +1,312 @@
+\documentclass{article}
+\usepackage[a4paper,bottom = 4mm,left = 14.11mm,right = 14.11mm,top = 10mm]{geometry}
+\usepackage{tabularx}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{textcomp}
+\usepackage{fontawesome}
+\usepackage{color}
+\usepackage[colorlinks=false]{hyperref}
+\usepackage{verbatim}
+\newcommand{\xfilll}[2][1ex]{
+\dimen0=#2\advance\dimen0 by #1
+\leaders\hrule height \dimen0 depth -#1\hfill}
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}
+\renewcommand\labelitemi{\raisebox{0.4ex}{\tiny$\bullet$}}
+\renewcommand{\labelitemii}{$\cdot$}
+\pagenumbering{gobble}
+% \definecolor{myblue}{RGB}{70,150,200}
+\definecolor{myblue}{RGB}{0,0,256}
+\definecolor{myred}{RGB}{256,0,0}
+% \definecolor{myblue}{RGB}{0,0,0}
+\begin{document}
+
+% \centering \href{mailto:sarthak2002.mehrotra@gmail.com}{\faEnvelope}\hspace{6mm} \href{https://github.com/SarthakM320}{\faGithub} \hspace{6mm} \href{https://www.linkedin.com/in/sarthak-mehrotra-a4a01120b/}{\faLinkedin}
+% \vspace{1mm}
+
+% Header with logo and details
+\hspace{-20pt}
+\begin{minipage}{0.18\textwidth}
+\hspace{-10pt}
+    \includegraphics[width=1.2\textwidth]
+    {iitb_logo.png} % Replace with your logo
+\end{minipage}
+\hspace{40pt}
+\hfill
+\begin{minipage}{1.2\textwidth}
+    \raggedright
+    {\large \textbf{Karthikeyan Jaganathan}} \\[8pt]
+    \textbf{Indian Institute of Technology Bombay ['26]} 
+    \hspace{40pt}
+    \textbf{[CPI  8.25]} \\[10pt]
+    Dual Degree (B.Tech. + M.Tech.) - Energy Science and Engineering  \\[2pt]
+    \vspace{20pt}
+    Phone : \textbf{+91-90081-32066}        
+    \hspace{25pt}
+    Email : \textbf{karthikiit13@gmail.com}\\[2pt]
+\end{minipage}
+
+\vspace{0.5cm}
+\hline
+\vspace{0.5cm}
+
+
+
+%\vspace{-18pt}
+\hspace{-0.6cm} Pursuing Dual Minor in \textbf{Artificial Intelligence and Data Science} and \textbf{Computer Science and Engineering}
+\vspace{-10pt}
+\section*{{\LARGE \color{myblue} Scholastic Achievements}\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.5mm, leftmargin=5.5mm]
+    %\item\fontdimen1\font=0.5em Secured \textbf{All India Rank 7358} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates \hfill\em{(2021)}\em{}
+    
+    \item\fontdimen1\font=0.4em Recipient, \textbf{IIT Bombay Undergraduate Research Award}: For exceptional work in \textbf{Computer Vision} {\hfill\sl{(2024)}}
+    \item\fontdimen1\font=0.3em Awarded a total of \textbf{9 AA (10/10) grades} for excellent performance in courses of \textbf{Data Science, RnD}{\hfill\sl{(2023)}}
+    \item\fontdimen1\font=0.5em Consolidated a \textbf{top 5\% rank} in \textbf{IIT JEE Advanced} examination among \textbf{0.16 million} candidates {\hfill\sl{(2021)}}
+    \item\fontdimen1\font=0.5em Attained a percentile of \textbf{99.03} in \textbf{JEE Main} examination attempted by \textbf{0.93 million} candidates {\hfill\sl{(2021)}}
+    %\item\fontdimen1\font=0.5em Scored \textbf{95\%} marks in \textbf{CBSE Boards 2021} and Scored \textbf{348} marks in \textbf{BITSAT 2021}\hfill\em{(2021)}\em{}
+    
+    
+    
+\end{itemize}
+\vspace{-24pt}
+
+%PUBLICATIONS
+
+% INTERNS
+\section*{\LARGE \color{myblue}Research Experience\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-6pt}
+
+
+
+
+{\fontsize{12}{12} \textbf{Weakly-Supervised Brain MRI Anomaly Segmentation System}}  \hfill{\sl \small (Dec'23 - Mar'24)}\\
+\hspace{0pt}{\it RnD $|$ Guide: P Balamurugan  $|$ Center of Machine Learning and Data Science} 
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.1mm, leftmargin=5.5mm]
+\vspace{0pt}
+\item\fontdimen1\font=0.5em \textls[5]{Developed a novel \textbf{weakly-supervised} anomaly detection method for brain MRI images using \textbf{Dual Prompting (DPT)} paradigm over a pre-trained \textbf{CLIP model} enabling accurate localization with limited annotated data}
+\item\fontdimen1\font=0.5em \textls[-20]{Evaluated various prompt tuning techniques including \textbf{CoOp, Visual Prompt Tuning (VPT)}, \textbf{and Contextualized Attentional Vision Prompt Tuning (CAVPT)} to optimize both visual and textual inputs for improved performance}
+\item\fontdimen1\font=0.5em \textls[-20]{Conducted extensive experiments comparing model performance across different training Prompt Types, Datasets, \textbf{Cross Domain Generalization}, achieving \textbf{State-Of-The-Art segmentation results} over publications on anomaly detection}
+
+\end{itemize}
+\vspace{0pt}{\fontsize{12}{12} \textbf{Data Science Intern $|$ NoBroker Technologies}}  \hfill{\sl \small (May'24 - July'24)}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.5mm, leftmargin=5.5mm]
+\vspace{-15pt}
+\item\fontdimen1\font=0.5em \textls[-20]{Developed a \textbf{custom 200M parameter T5 model} to replace GPT calls, enhancing cost-efficiency and task performance}  
+\item\fontdimen1\font=0.5em \textls[-20]{Conducted exhaustive \textbf{pretraining} of the model on 10GB of \textbf{multilingual} data using the \textbf{Span Corruption objective}  }
+\item\fontdimen1\font=0.5em \textls[-20]{Sequentially fine-tuned the model in a \textbf{multitask setting (FLAN)} for tasks like summarization, title generation, NER }
+\item\fontdimen1\font=0.5em \textls[6]{Achieved \textbf{80\% increase} in \textbf{recall} for intent detection and \textbf{85\% accuracy} on tagging unseen conversation intents}
+\item\fontdimen1\font=0.5em \textls[-20]{Fine-tuned the model for Sequential Named Entity Extraction, achieving an impressive \textbf{81.3} mean \textbf{fuzzy match score}}
+\end{itemize}
+\\
+{\fontsize{12}{12} \textbf{The Humanoid Project $|$ Institute Technical Council, IIT Bombay}}  \hfill{\sl \small (Feb'23 - May'23)}\\
+\hspace{0pt}{ \textbf{\it Artificial Intelligence and Perception Subsystem $ \vert $  Book Label Detection}} 
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.5mm, leftmargin=5.5mm]
+\vspace{-4pt}
+\item\fontdimen1\font=0.5em \textls[5]{Leveraging \textbf{YOLOV8}, acquired book-specific crops from the image then passed down the pipeline for processing}
+\item\fontdimen1\font=0.5em \textls[-20]{Trained model on \textbf{Roboflow} by  making a \textbf{Custom Dataset} of the \textbf{500+ books} and manually annotating the labels}
+\item\fontdimen1\font=0.5em \textls[-20]{Extracted targeted words from the labels by employing \textbf{EasyOCR} library for Optical Character Reading (OCR)}
+
+\end{itemize}
+
+
+\vspace{-20pt}
+
+
+\section*{\LARGE \color{myblue} Key Projects \color{myblue}\xfilll[0pt]{0.5pt}}
+
+\vspace{-8pt}
+\section*{\LARGE Data Science and Machine Learning}
+\vspace{-8pt}
+\hline
+\vspace{8pt}
+
+{\fontsize{11.5}{11.5} \textbf{Enhancing Alzheimers's Classification through Pretraining }}  \hfill{\sl \small (Oct'23 - Dec'23)}\\
+\hspace{0pt}{\it IE643 $|$ Guide: P Balamurugan  $|$ Center of Machine Learning and Data Science} 
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.5mm, leftmargin=5.5mm]
+\vspace{-2pt}
+\item\fontdimen1\font=0.5em \textls[-20]{Evaluated \textbf{Self-Supervised Learning} methods (SimCLR, BarlowTwins, SwAV) for pretraining on \textbf{medical images} }
+\item\fontdimen1\font=0.5em \textls[-20]{Developed a Alzheimer's classification fine-tuning pipeline using pretrained \textbf{ResNet18} models on \textbf{Brain MRI images}}
+\item\fontdimen1\font=0.5em \textls[-20]{Analyzed the impact of various pretraining datasets (Natural Images, Brain MRIs, CT scans, X-rays) on downstream task}
+\item\fontdimen1\font=0.5em \textls[-20]{Evaluated models using \textbf{Log Loss} error and quantitatively improved performance over \textbf{untrained ResNet baseline}}
+
+\end{itemize}
+\vspace{0pt}
+
+
+
+
+\hspace{-18}{\fontsize{12}{12} \textbf{Black-box model with XAI Evaluation $|$ Course Project}}  \hfill{\sl \small (Mar'23 - Apr'23)}\\
+\hspace{0pt}{\it DS303 $|$ Guide: Biplab Bannerjee  $|$ Center of Machine Learning and Data Science} 
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.5mm, leftmargin=5.5mm]
+\vspace{-3pt}
+\item\fontdimen1\font=0.5em Implemented a \textbf{research paper} to study the significant features in models such as \textbf{Random Forest and LightGBM}
+\item\fontdimen1\font=0.5em \textls[5]{Utilized the \textbf{Iranian Customer Churn dataset} with customer churn being the target variable for the model}
+\item\fontdimen1\font=0.5em \textls[-20]{Employed the \textbf{SHAP and LIME} frameworks on the model to understand which features were the most significant}
+\item\fontdimen1\font=0.5em \textls[-20]{\textbf{Evaluation} was based on removing most significant features and noting its effect on the \textbf{Error metrics }(R^2,MSE,MAE) }
+
+\end{itemize}
+\newgeometry{top=11mm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+\hspace{-15}{\fontsize{12}{12} \textbf{Facial Recognition using Siamese Networks $|$ Self- Project}}  \hfill{\sl \small (May'23-Jun'23)}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.10mm, leftmargin=5.5mm]
+\vspace{-14pt}
+\item\fontdimen1\font=0.5em Built a Facial Recognition Model with an emphasis on \textbf{Contrastive Learning} on positive and negative samples
+\item\fontdimen1\font=0.5em \textls[5]{Curated a comprehensive dataset of \textbf{1000+ images} which was then subjected to sample creation using a DataLoader  }
+\item\fontdimen1\font=0.5em \textls[5]{Implemented Model architecture from the \textbf{Siamese Neural Networks paper}, based on \textbf{Contrastive Learning}}
+\item\fontdimen1\font=0.5em \textls[-20]{Inference involved sampling the input image with \textbf{50 validation images} to return a score compared with preset threshold}
+
+\end{itemize}
+{\fontsize{12}{12} \textbf{Emotion Detector Using Deep Learning $|$ Winter In Data Science Project}}  \hfill{\sl \small (Dec'22-Jan'23)}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.10mm, leftmargin=5.5mm]
+\vspace{-14pt}
+\item\fontdimen1\font=0.5em Utilized a dataset of about \textbf{35,000+ images from Kaggle's fer2013} for the training and testing of this detector
+\item\fontdimen1\font=0.5em \textls[5]{The input data was augmented using \textbf{Tensorflow and Keras functions} and then fed to the Model}
+\item\fontdimen1\font=0.5em \textls[-20]{The training model had \textbf{Convolutional Neural Networks (CNN)} followed by batch Normalization and Max pooling}
+
+
+
+\end{itemize}
+
+\vspace{-15pt}
+\section*{\LARGE Development\xfilll[0pt]{0pt}}
+\vspace{-8pt}
+\hline
+\vspace{8pt}
+\vspace{-3pt}{\fontsize{12}{12} \textbf{Frontend Development Intern - React $|$ GoBlu}}  \hfill{\sl \small (May'23 - Jun'23)}\\
+
+
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.10mm, leftmargin=5.5mm]
+\vspace{-20pt}
+\item\fontdimen1\font=0.5em \textls[-20]{Collaborated with the design team to ideate and design the landing page, then developed the entire frontend using \textbf{React} }
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{Google Maps API} for precise location input, generating a map element with embedded routes in UI}  
+
+\item\fontdimen1\font=0.5em \textls[-20]{Implemented dynamic animations with \textbf{Framer Motion} and ensured website responsiveness across various viewports }
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated the APIs with the frontend, used \textbf{Postman Documenter} to communicate efficiently with backend team}
+\end{itemize}
+\\
+\vspace{-3pt}
+{\fontsize{12}{12} \textbf{Software Development Intern $|$ Chocolate Stay}}  \hfill{\sl \small (June'22 - Apr'23)}\\
+{\it } 
+% \vspace{11pt}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.10mm, leftmargin=5.5mm]
+\vspace{-18pt}
+\item\fontdimen1\font=0.5em Focused on backend development, implementing the \textbf{MERN stack}, dealing with images and files using \textbf{GridFS}.
+\item\fontdimen1\font=0.5em Created a Users Database with all logistics, implemented Email Authentication, created APIs for \textbf{CRUD operations}.
+\item\fontdimen1\font=0.5em Developed booking APIs for the StoreFront app, supporting hotel booking functionality and frontend integration.
+\end{itemize}
+\\
+\noindent{\fontsize{12}{12} \textbf{Full Stack E-Commerce Website $|$ Fooxt}}  \hfill{\sl \small (Mar'23 - Jun'23)}
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.10mm, leftmargin=5.5mm]
+\vspace{-3pt}
+\item\fontdimen1\font=0.5em Implemented a full stack E commerce website using \textbf{React-Redux} for frontend and \textbf{Firebase} for the backend
+\item\fontdimen1\font=0.5em \textls[5]{Incorporated \textbf{Framer Motion} for animations, while also making the page \textbf{responsive to multiple viewports}}
+\item\fontdimen1\font=0.5em \textls[-20]{Integrated \textbf{phone number authentication} and also a cart functionality to add products to lead to final checkout page}
+\end{itemize}
+
+
+
+\vspace{-18pt}
+\section*{\LARGE \color{myblue}Positions of Responsibility\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-10pt}
+{\fontsize{12}{12} {\textbf{Head, AI and Perception Subsystem $|$  The Humanoid Project }}} \hfill{\sl \small (May'23 - Present)}\\
+{\it Lead of one of the 4 subsystems in the tech team \textbf{after completing a year as a developer}}
+\vspace{-15pt}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.10mm, leftmargin=5.5mm]
+
+\item\fontdimen1\font=0.5em \textls[10]{Led the AI subsystem, ensuring \textbf{integration with other subsystems} to meet robot's decision-making needs}
+\item\fontdimen1\font=0.5em \textbf{Guided and trained two sophomores}, integrating them into the team and familiarizing them with the tech stack
+\item\fontdimen1\font=0.5em Presented team achievements at \textbf{IITB Tech RnD expo}, engaging over \textbf{2000} students, and potenital collaborators
+\end{itemize}
+{\fontsize{12}{12} {\textbf{Department Academic Mentorship Program (DAMP) Mentor $|$  SMP,IITB }}} \hfill{\sl \small (May'23 - Present)}\\
+{\it Part of a 12 member team, selected on the basis of an \textbf{interview based on mentorship skills}}
+\vspace{-15pt}\\
+\begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -1.10mm, leftmargin=5.5mm]
+
+\item\fontdimen1\font=0.5em \textls[10]{Monitoring the academic performance of \textbf{11 sophomores} by providing academic guidance and counsel }
+\item\fontdimen1\font=0.5em Contributing to a smooth integration of the mentees by catering to their academic needs and co-curricular endeavors
+\item\fontdimen1\font=0.5em Conducting sessions with Seniors and Alums to provide the freshmen and sophomore students with a wider outlook
+\end{itemize}
+
+\vspace{-15pt}
+
+% \vspace{\baselineskip}
+\section*{\LARGE \color{myblue}Technical Skills\color{myblue}\xfilll[0pt]{0.5pt}}
+\vspace{-12pt}
+\begin{tabular}{p{3cm}p{35cm}}
+  \textbf{Programming} & \textbf{C\texttt{+}\texttt{+}, Javascript, Python}, Java, HTML, CSS \\
+  \textbf{Development} & \textbf{NodeJS, React JS, MongoDB, Express}, BootStrap, Tailwind, Angular, MySQL, Django\\
+   \textbf{\fontdimen1\font=0.7em Data Science\fontdimen1\font=0.5em} & \fontdimen1\font=0.5em \textbf{Tensorflow, Keras, Pytorch}, Numpy, Pandas, Matplotlib, Django
+\end{tabular}
+\vspace{-18pt}
+% % \newgeometry{top=1.444cm, bottom=7.4mm, left=14.11mm, right=14.11mm }
+
+\section*{\LARGE \color{myblue}Key Courses Undertaken\xfilll[0pt]{1pt}} \vspace{-10pt}
+\begin{itemize}[label=\textcolor{myblue} ,itemsep = -1.25mm, leftmargin=1.5mm]
+\item\textbf{Mathematics:} Calculus, Linear Algebra, Partial Differential Equations, Optimisation Models, Numerical Analysis
+\vspace{3pt}
+\item\textbf{Computer Science:} Computer Programming and Utilization,  Data Analysis and Interpretation, \textbf{Deep Learning}, Supervised Machine Learning, Advanced Learning Algorithms, \textbf{Natural Language Processing}, Unsupervised Learning, Recommenders and Reinforcement Learning, Data mining , \textbf{Statistics and Probability Theory}
+
+
+ 
+\end{itemize}
+\vspace{-5pt}
+\hfill{\textit{(*: To be completed by Nov'24)}}
+\vspace{-22pt}
+\vspace{15pt}
+
+\vspace{-15pt}
+% \vspace{4mm}
+\section*{\LARGE \color{myblue}Extra-Curricular Activities\xfilll[0pt]{1pt}} 
+\vspace{-10pt}
+\centering \begin{tabular}{|p{1.5cm}| p{15cm} |}
+\hline
+% \vspace{2.4mm}\hspace{3mm}\textbf{Technical} &  \begin{itemize}[label={\textbullet},itemsep = -1.25.2 mm, leftmargin=*]
+%     \vspace{-0.5cm}
+%     \item \fontdimen2\font=0.5em Completed courses on \textbf{MLOPs} and \textbf{\LaTeX}  in a duration of 4 weeks in \textbf{TSS} \fontdimen2\font=0.5em\hfill{\sl \small(2021)}
+%     \item \fontdimen2\font=0.5em Successfully completed a course on \textbf{Deep Learning Specialization} on \textbf{Coursera}\fontdimen2\font=0.5em\hfill{\sl \small(2021)}
+%     \item \fontdimen2\font=0.5em Completed a course on \textbf{Advanced Techniques in Tensorflow}\fontdimen2\font=0.5em\hfill{\sl \small(2021)}\hspace{-1.5mm}
+%     \vspace{-0.4cm}
+% \end{itemize} \\
+% \hline
+\centering \vspace{2.5mm}{\textbf{Sports}} &  \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.9 mm, leftmargin=*]
+    \vspace{-0.5cm}
+    \item\fontdimen2\font=0.4em Was awarded the \textbf{Sportsperson Of The Year} Honor from H5, IIT Bombay \hfill{\sl \small (2024)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    
+    \item\fontdimen2\font=0.4em \textbf{Captained} the Inter-IIT Aquatics contingent winning \textbf{Silver} twice in Waterpolo} \hfill{\sl \small (2024)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item\fontdimen2\font=0.4em Won \textbf{Silver} in 4x100 Medley Relay at Inter-IIT Aquatics representing IIT Bombay \hfill{\sl \small (2022)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    % \vspace{-4.9mm}
+    \item\fontdimen2\font=0.4em Represented Karnataka State for 5000m sprint at the CBSE \textbf{Nationals} Competition \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    
+    
+    \vspace{-0.4cm}
+\end{itemize} \\
+
+
+
+\hline
+\centering \vspace{2.5mm}{\textbf{Cultural}} &  \begin{itemize}[label=\textcolor{myblue}{\textbullet},itemsep = -0.9 mm, leftmargin=*]
+    \vspace{-0.5cm}
+    \item \fontdimen2\font=0.5em Guitarist of the Band which Won \textbf{1st Place} Battle Of The Bands, IIT Bombay \hfill{\sl \small (2024)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item \fontdimen2\font=0.42em  Was a guitarist of the hostel band which won 2nd Runners-Up in  \textbf{Goonj-22}   \hfill{\sl \small (2023)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    \item \fontdimen2\font=0.5em Was awarded Exellence in Instrumental Music - Guitar, by \textbf{London School of Music}   \hfill{\sl \small (2019)}\hspace{-0.3mm}\fontdimen2\font=0.5em
+    
+    \vspace{-0.4cm}
+    
+
+\end{itemize} \\
+
+\hline
+
+
+
+\end{tabular}
+
+
+
+\end{document}
